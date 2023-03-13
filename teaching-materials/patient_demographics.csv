@@ -1,0 +1,2011 @@
+patient_id,gender,ethnicity,living_condition,age
+dd0f2ed4-e304-4bc5-b294-dc6857f6fc0d,M,White,other,37.0
+608454f5-98aa-42ce-b5f4-285cd9b09980,M,White,other,54.0
+d6bf2b0c-3cd7-4ed6-b3cf-afe074c67894,M,White,other,20.0
+e8404409-e5e9-4dfe-86da-36cf47c5751f,F,White,other,63.0
+98d2f9d5-2a7d-49d2-b5f1-8c72325a08cb,F,White,other,26.0
+0083c344-49f2-4cfb-9223-09b5fbf13d2f,M,White,other,56.0
+71942510-6c77-4daa-9c10-e4223b28e51b,M,White,other,67.0
+2d2ffe58-848b-4db8-a813-9a1f23b960f8,F,White,other,50.0
+f86ec44d-b5f6-4d80-a2f0-fe492abdce24,M,White,,70.0
+ebcc47b2-3f1d-4190-b47e-2c72380d5625,F,White,other,32.0
+88180f85-e37d-4a61-a13d-584cb255bdb5,F,White,other,11.0
+cde0fb55-1b07-4703-bc96-14efb5f6650c,M,White,other,63.0
+e0f951ff-9575-443e-ab0c-1aa396e64c31,F,White,other,64.0
+4cfc1ca8-c686-46eb-a312-894d1f3b7fe2,F,White,other,
+74139ae2-1457-4af2-8297-d0823898087d,F,White,other,4.0
+12823ac9-d1a6-4e3a-8145-a15bffd5e899,M,White,other,12.0
+35e7df69-1ba3-4173-9cc1-046ca666a9f6,M,White,other,40.0
+aedd2226-c0d1-4dff-a844-a14a8d5d2ff7,M,Black or Black British,other,37.0
+2fe2333c-f54d-44cf-8535-62dd57f7c1b6,F,White,other,21.0
+abc7df85-8835-4ec9-b7ae-eb83ee162b45,M,White,other,27.0
+574f69d1-6fac-4251-9388-34fa1e60f766,F,White,other,27.0
+75d6e053-f5a5-4def-9c22-89791c9ad1f4,M,White,other,59.0
+e9d5083e-7fb7-43fa-bdbe-cafbd06c8f6e,M,White,other,68.0
+0b0cc7ad-91b5-479e-aaf2-815d89d49ad5,F,White,other,71.0
+6d2ed8b6-ed91-46c4-ac2d-e0ca66e1e985,M,White,other,6.0
+1725e20e-5676-46de-820c-3e9266087156,M,Asian or Asian British,alone,40.0
+00e83a07-d2ff-4f4e-a380-1620f82a9a09,M,White,other,1.0
+4de10ee0-32f1-4e7b-ad67-258cd5f4cf84,F,White,other,64.0
+4a3dce78-9cce-4c6e-b970-354208bda00c,M,White,other,13.0
+87882616-7ca8-4715-976a-2567f7218960,M,White,other,72.0
+6e94348b-062e-416e-8182-c9fd5e88984e,M,White,alone,5.0
+c502b5d1-f28c-480d-b0f8-54b2906308d6,F,White,other,35.0
+4a95538b-5b27-41dd-8ba8-d9977a13d50d,F,White,children,44.0
+359375d0-9c2a-4dac-8e52-54073d37fbb1,F,White,other,38.0
+772302d3-d7e6-4e09-bd9b-6f32cd9e0bd8,M,White,children,70.0
+161f828b-ec7e-4a07-bddb-ecb3f58aa2a2,M,White,other,19.0
+12c73440-d2c6-4f31-ae0b-f712c6bc2e62,M,White,other,2.0
+e41e42e7-6058-4cc8-881a-baef67be649e,F,White,other,31.0
+557d3888-f279-4b3c-ac35-b4928329d5b2,F,Mixed,other,8.0
+4c8ac01a-a650-4799-a9fe-3bab7aa053b7,F,White,other,37.0
+77b4e6f5-b5a7-4d26-a6c7-1a2402e931d5,M,White,other,33.0
+eaf88946-3285-4da4-b5d3-f9495ec13804,M,White,other,73.0
+01aa2cc3-4758-4369-9f31-5b507e40f362,M,White,other,40.0
+336a7b99-2a49-480d-a7df-43c83ff1c28d,F,White,children,4.0
+4a2591cc-5210-423c-ab2e-12e0f598d305,F,White,other,37.0
+89529715-3f48-4366-a64e-5fd6e5ddbceb,M,White,other,26.0
+99ed618d-725c-4e17-aa79-48b30757f6db,M,White,alone,8.0
+b844ac87-2186-47dc-88a5-a8b610f3a4f8,F,White,alone,35.0
+d89877b4-e3a2-4b1a-a0fe-fb66148de2fb,M,White,other,45.0
+009581a1-da5b-4462-90e0-de9389f335b0,,White,other,56.0
+bc96cfaf-5bb3-4efe-a912-5736efc7c5ef,M,White,other,46.0
+3719f501-7587-48b6-bb6b-921ce727a903,M,White,other,44.0
+16449ac6-1954-4192-8939-3fa82b3d688b,F,White,alone,9.0
+8b140883-916e-4c82-848d-1c1ab07bdeb2,F,Black or Black British,other,63.0
+296fe1f1-71cf-4c56-a7c0-593fcce59ca0,F,White,alone,55.0
+50d303fb-de6c-4b5f-b153-a537c6519215,M,White,other,38.0
+bad85e56-5f1c-46cf-8641-d21a2f004074,F,White,other,64.0
+131b2ef3-6802-4185-8b61-fff02a823c4b,M,White,other,9.0
+43072624-480c-4d83-a5f6-e3057310646e,M,White,other,18.0
+1a7f2ac8-2d13-4301-9070-2f837cab26e8,M,Other ethnic groups,alone,54.0
+70e7951c-3af3-4389-a02c-974807baf4de,F,Black or Black British,alone,10.0
+ac018d80-6f97-498e-8cd6-f8fbc94f4bd3,F,White,other,
+1b9f3c99-4334-41b3-a55c-e42dac908a24,F,Other ethnic groups,other,19.0
+ffc5aace-7f1e-4560-8b18-7652a7ce7c8d,M,White,other,35.0
+0583e2ed-10d3-4c2a-8e19-230caf2538de,F,White,other,52.0
+f6eb6372-4c9f-469b-9f55-a3fba658b088,F,White,children,43.0
+6f365f64-7669-48e3-adc3-4883506cf069,F,White,other,21.0
+665bd3d1-cd80-403d-bdf5-64925e0d9a30,F,White,alone,46.0
+7005b331-e3c3-4904-b92a-d6d07e5e80fc,M,White,other,67.0
+34816e72-617b-48c8-9a3b-f6e992a6ff78,M,White,other,3.0
+1944d264-fd1b-4f1b-b9c5-9c12dcd7eb81,M,White,other,51.0
+dff99c43-e9a8-4d09-9f86-b74083f0cb15,F,White,other,33.0
+555f06fb-5f63-4964-9955-40640ad2085b,F,White,other,40.0
+5aca58c2-9c02-4e73-82b3-14907bf40c23,M,White,other,53.0
+089e540d-b7ff-4354-b554-cae0d85fb331,M,,other,64.0
+1f87b934-817e-4c93-b14f-fac2287d6b6b,,White,alone,20.0
+b84b029e-b3e6-4418-9b25-f3a5afd2373b,M,White,other,26.0
+51270b35-43a6-4999-96b1-5f45a706bf7a,F,White,other,19.0
+1398678a-199d-4bc6-a24e-7b73b94430c9,M,White,other,14.0
+7039f270-8df1-4dd2-8154-c155b6534ce8,,White,other,13.0
+17ed98bc-e093-4dc6-a0c4-a2497198abc0,F,White,other,44.0
+d6dee9e3-22b2-41e4-8230-770ee10baab4,M,White,other,45.0
+58499244-a056-47c1-8efc-3c56f914340e,F,White,other,32.0
+88ee0b86-d2b2-4c9a-aad0-c941e8f4449d,M,White,other,42.0
+c4347a7a-e8ab-4b97-ad6f-135d76364403,F,White,alone,41.0
+9ec06152-261c-4635-bb68-f9939ec68124,F,Other ethnic groups,other,45.0
+4f0121ac-6e63-402e-baf4-318a1cb9df60,M,White,other,3.0
+e1c98aa6-d55e-40ba-a213-ac1ea993d6a5,F,White,other,62.0
+8d4cf28d-83f1-4e32-9806-54181bf56dc9,M,White,alone,42.0
+43e8ea65-583d-4730-ac27-ffd71ae85c38,F,White,other,17.0
+fbe45732-a16d-4d10-a7a3-11d4fb4efbb4,F,White,other,25.0
+4510e7d6-2f4b-4ae1-a182-835281730db0,M,White,other,4.0
+fe231139-b2cd-4b16-a101-fcd2f639f26e,M,White,other,5.0
+71a114e6-833b-44df-a6a0-d86070ffcfc3,M,White,other,21.0
+a1163bb0-5f18-434b-adff-c108175b9a33,M,White,other,6.0
+145606ab-3f02-4599-ae97-195ffccf0c97,F,Asian or Asian British,other,72.0
+306e59d8-bc2d-44ef-bbc0-9a3f041db3f8,F,White,other,22.0
+46273a1b-5e15-47a6-88a3-8f6fc8c35c55,M,White,other,68.0
+75608719-03dc-4db1-abb6-3c4587e7bd27,F,White,other,2.0
+e4b907df-55fc-4333-916d-72a40078ebb4,F,White,other,3.0
+4b653a31-4917-4bd7-aa07-f77995fc2d39,F,White,other,33.0
+7b8a7b6b-cfb9-4d88-b68a-bf4be581bac3,,White,other,6.0
+bdf94054-ca21-417f-a010-3d7d65a2308e,M,Asian or Asian British,other,32.0
+ee0c9bcd-83d1-4f1c-b816-0518582c244d,M,White,other,46.0
+929f2fd5-010e-4ea9-9f54-ebf49d95a575,F,White,other,64.0
+de65ba27-a709-4f6a-878d-d3f0378e92aa,F,White,other,8.0
+ac0968d7-e75c-4445-aa5d-188f34c4c60a,M,White,other,63.0
+3a767194-c27f-4f4b-819b-a3d7242f7f40,F,White,other,69.0
+b06bf3cf-ffef-4ca2-a1ed-b84e74d1db3b,M,White,other,28.0
+b0343dc2-acba-4e14-8093-324d35d7ba7d,M,White,other,13.0
+928d98d0-f0dd-4d21-942f-2574525b6c42,M,White,other,15.0
+2fa879eb-756f-4eb0-864f-15572be3b629,F,White,other,9.0
+19b1993b-3dab-47a3-979e-1cf45bb93127,F,White,alone,71.0
+eab58e8a-7006-4957-b625-f75349adcb35,M,White,other,34.0
+3b351c39-8dec-4eca-92fb-d4972b23685c,M,White,other,18.0
+f68b4997-ada7-4c35-989d-bd876248fd87,F,White,other,41.0
+304f87d3-ef35-46b7-8428-8fce45d1b825,M,White,other,26.0
+bd7f08e3-0f1c-4ab2-ae9b-4e728c567ac5,M,White,alone,16.0
+dc2c9fec-bbf5-417e-aff9-6ec282d2e239,M,Asian or Asian British,other,71.0
+837fb8b3-bed2-41ce-a3ef-af51ba8bb314,F,White,other,23.0
+8cd9ec0b-760f-4606-941a-c01b6f2d12d9,F,White,other,64.0
+0e0555a3-c0ff-435b-a11d-10c15125ce12,M,White,other,60.0
+fe570ca7-ed74-47a5-b0ff-42f2cbbf8042,M,White,other,50.0
+cce3c695-c22e-4aa0-ba18-80f3ef1ffa3b,F,Black or Black British,other,71.0
+c76f16f7-0dd5-4ab1-83c3-b289e68615e5,F,White,other,51.0
+182dc741-bba0-4922-af49-c54f7a16f16a,M,White,other,38.0
+9892a4dd-6131-4515-889a-387ff9bbc66c,F,White,alone,67.0
+cc3a886a-f3e7-4107-8c7d-e7f6656ec2a8,M,White,other,53.0
+95c77a0c-efa0-4821-b8a4-0af4733f9029,F,White,other,62.0
+1015cb33-dc3c-49ba-9b46-4a8d80593f37,M,Mixed,,14.0
+4dc6493c-e0ca-44b0-b426-bbff98e14cf8,M,White,other,11.0
+38fae50c-3e54-4286-b0eb-d23eda9ef5c9,M,White,other,2.0
+a36a5403-3dfb-480b-9cf2-01b79d78be70,M,Asian or Asian British,other,70.0
+d0337fce-8d02-43f0-a519-ce19499465b8,F,White,other,38.0
+2e32c616-8631-48fa-aad1-1f2cfbcab2b8,F,White,other,38.0
+b0ef0e1f-8c5c-4e84-adbe-fa0f9124aca2,M,,other,5.0
+959974fa-9a11-4b34-951d-39bb4cb8685e,F,White,other,36.0
+b93841c6-bd28-4f2c-ae52-f5cbcacebe42,F,White,other,3.0
+b96b983a-db5b-4041-9b5f-7de66b1e716f,F,White,other,15.0
+f3d358c7-4087-4c75-9c89-4644b33c64e7,F,Other ethnic groups,other,35.0
+5bf2479a-8f02-468d-a20c-aae70dc8217e,F,White,other,59.0
+30edd631-7267-4c8f-a88d-48ce3920dea9,F,White,other,54.0
+9b58b411-fb35-4b2f-b596-0c2a046408e8,F,White,other,35.0
+b56cdcd9-1dcd-44e1-a3f3-93ccc1ff4652,F,White,other,55.0
+971ca6b2-de8f-4b66-87d3-4c83ab2ebec1,M,White,other,70.0
+b0abf213-aced-4515-99dd-d75eed899656,F,White,other,38.0
+5b5668a7-f044-4dd6-8ca6-b02e9d44becc,F,White,other,61.0
+821606af-4d66-4511-9642-632694da9c24,M,White,alone,49.0
+bc2b5287-8a33-4ee0-accc-88ee4c538d62,M,White,other,8.0
+18ba9333-a1cd-4ac5-84c0-8a507c532765,F,White,other,44.0
+f2d6c7b0-cac8-49f3-97ee-cfdb6585f71a,F,White,other,
+9edbc40f-c98d-4bb8-8251-2b14527276c9,F,Black or Black British,other,36.0
+015effc7-2ac3-4cce-bcfd-6c5eadd35b09,F,White,other,3.0
+7a7a371b-7d40-4db3-9e5c-6d52655a6e5c,F,White,other,56.0
+f77980d8-4a7c-454b-a612-dd79a62447cf,M,White,other,37.0
+f934edcf-3929-4d3c-88f3-b31ed5e8a50c,M,White,other,8.0
+ee69f70d-d100-448a-a1d5-c26657e80b94,F,White,,11.0
+a2051eef-739e-4d37-ad81-49f425a46fac,M,White,other,51.0
+e8467cff-291e-48de-bc9d-a29a7782157a,F,White,alone,5.0
+6ee17881-e051-4a39-acbb-f6ce394b7b77,M,White,other,61.0
+9b9395be-d1b5-4a4c-9c4a-704c6d54d40a,M,White,other,42.0
+837db90c-ad47-45be-85d2-51d3d3958d41,M,White,other,34.0
+dc410936-1d7f-4725-ac92-f50c7ddb72ce,F,White,other,60.0
+9d9f1b9f-42c8-49d4-89b5-50c51730494c,M,White,other,67.0
+e01f9c9e-2b61-4908-b6a6-cc76763a8359,M,White,other,10.0
+9016c2a7-363f-47a3-8139-9e7c80de7954,M,White,other,4.0
+934bd6bc-bba7-4870-86ed-52938b2bb58d,M,White,other,44.0
+63debc8f-ad4f-4433-834c-62f7afd985f3,F,White,alone,50.0
+2a64f34e-ddfe-476a-97d7-b3cc882fbdf5,M,White,other,65.0
+ce27c989-35cd-474c-9090-2319ab33c2ed,M,White,other,67.0
+71ff4593-c49e-4d7e-a5e4-6bab6dc7612c,F,White,other,65.0
+1c870f98-2e5e-43a1-8d3c-25fe7bf235c0,F,White,elderly,46.0
+6aeacdaa-7f39-4b5c-a572-42c66f0a9a8a,F,White,children,33.0
+d598608c-b748-47b2-acc9-3d7f8c7df628,F,White,other,26.0
+0b55aca0-71ad-4392-9a96-84ee6b690b18,M,White,elderly,72.0
+40268470-663e-4c95-9587-ac86bb6caf08,F,White,alone,70.0
+cf316d18-d94e-442b-bb74-39f77a504693,F,Other ethnic groups,other,55.0
+9a5c8228-13d3-43cb-8044-df5de1113ce2,F,White,other,34.0
+919de8a2-3708-42a7-8f0e-cb7d6b21694d,F,White,other,39.0
+b8778bac-5994-4b25-bf33-08cb1901e24e,M,White,other,70.0
+f65733ed-d8b3-43ee-a2a6-52d5d758f1ec,M,Asian or Asian British,other,64.0
+3fb937a0-a71f-420c-afaf-ac36987688e2,F,White,alone,64.0
+c64e5902-4071-4481-9a81-6447c8476915,F,Black or Black British,other,29.0
+890ae0ee-3d11-477e-89be-cf1e0ae04a47,F,White,other,23.0
+ba42b75a-68d2-406d-bb27-32ebf1633722,F,White,other,14.0
+7c772435-b620-4c5a-bc6b-fde01e21a03f,M,White,other,34.0
+bced01a5-4d6c-451f-8968-b9acb8603cf0,F,White,alone,24.0
+6b54f960-ffd8-43e4-b648-dd92d1a3200f,M,White,other,60.0
+f0b19d03-e762-44fc-ac07-0fadbb39b5a8,M,White,other,14.0
+03562bd3-68de-4086-a19c-0814a433b0b0,F,White,other,50.0
+5657addf-5716-41b5-8377-cb358cd7a623,M,White,other,69.0
+3def1af5-2b47-424c-bd8a-633168593410,M,White,other,46.0
+cd2ffd6a-f31b-4e8e-99b5-2fdf4e2579f8,F,White,other,17.0
+b381df11-f7a7-4533-b5a8-971dea84fa45,F,White,other,43.0
+5303e855-e43b-4a3f-ad13-673c60f895d4,F,White,other,31.0
+7fc12212-d4d1-4ef3-9b66-04794f490ef7,F,White,alone,36.0
+c7490120-5c69-4cb1-aa01-2b031f9064d2,F,White,alone,28.0
+8279bfdf-517c-4401-8ada-44d9c6b1bbe7,M,White,other,12.0
+43bbcb1d-51cb-4ea8-961e-66ca44d1babe,M,White,other,26.0
+5583966b-033d-4620-b4a0-577b92d4e13a,M,White,alone,47.0
+f261b514-ff22-4ff7-9701-2767f7f7e29d,M,White,other,41.0
+c7583164-f127-431d-b42f-0821ed8ee7b1,F,White,other,45.0
+f6c3381f-445f-4362-a496-fc1e0fef09bd,F,Asian or Asian British,other,21.0
+49e87ab4-d86d-4097-a6b4-2c0a31f04a6f,F,Other ethnic groups,other,31.0
+60513e37-5c17-4c2a-bd00-27eb0b73c36a,F,White,other,4.0
+61cb77de-542d-42a3-8944-76a922af3356,F,White,other,26.0
+a8b7ede7-b673-4132-a413-63420c5ec9c3,F,Other ethnic groups,other,21.0
+5e085a24-792a-4ee7-a5fe-082eafa69df1,M,White,other,3.0
+b8dfc3ce-a704-4175-841f-6cd130a0a93d,F,White,alone,22.0
+3b2d60c1-31d5-4848-8ff8-a1e3b3190bd7,M,White,alone,16.0
+aff6b818-aa08-4578-ba5c-67ee680ff9d9,M,White,other,28.0
+aadfb678-5488-455b-b6ff-6ad8399a8607,M,White,other,38.0
+f7aa75d2-67f6-4923-bf27-bfb4006e4cc8,F,White,other,67.0
+c48dc016-6f8e-4597-9338-871908b5addb,M,White,other,68.0
+fb58e5e3-5860-4ba6-a334-47491a3a10c0,M,White,alone,38.0
+f97c57b9-25dc-47cd-bff0-ad1486cf1511,M,White,other,11.0
+d8ad09ec-87b2-4129-93f1-d760989c6a8c,F,White,other,33.0
+58deec1f-06dd-47e5-8055-0dc1e5f17e38,M,White,other,31.0
+d4e73745-3cf8-438b-8b03-aca911e48fb9,F,White,other,3.0
+ad9de60f-f550-415e-ad14-91e682b07a40,M,White,other,8.0
+7efc8cbf-5794-4b53-a495-e457de6f6d34,F,White,other,18.0
+f83eee78-92fa-4f4f-80dc-42e613e32242,F,White,alone,43.0
+4940e017-c763-4e7e-93cd-52687e338ab1,F,White,other,62.0
+55c614d2-cf78-47e4-809b-ddccbdfcd554,M,Mixed,other,73.0
+60ef3627-78ca-446b-a69c-caa2b440aba1,F,White,alone,2.0
+45d2186a-cad2-4056-a889-d4e0329c7bd1,,White,other,73.0
+b8fb0190-367e-4b35-a81b-87e8d1326ee1,M,White,other,37.0
+a57a2283-993f-4b33-a17a-3c0fa060f8cd,M,White,other,38.0
+09645456-eddc-4fe3-a7ac-6cecbba13d93,F,Other ethnic groups,other,
+8ce8ffe3-9a59-4c06-8c86-857d3a04bf15,F,Black or Black British,other,64.0
+578e7fdb-9010-4e5e-9779-572da447575a,F,White,other,40.0
+971fc474-25a8-4dbb-8072-b8e174ed7c95,F,White,other,23.0
+4df91cfc-a584-4e5e-b633-fe9890318b1f,F,White,other,6.0
+d386e550-4070-4171-b5c1-01ad2bdaf08e,F,White,other,28.0
+73210cb1-5c6a-44f7-b290-08d2fd64e69f,M,White,other,59.0
+7594417a-7173-4daa-a601-e08b94b67d05,F,Other ethnic groups,other,74.0
+07ad6188-d79f-4867-a3c2-259992087ac6,F,White,other,26.0
+4dd55144-2162-472e-bec6-5b24e243c875,F,White,other,67.0
+e2d3f57d-9894-41fe-b0e1-c13b9c726c0a,F,White,other,57.0
+7b8e5e12-1f39-4232-8e81-832cc5018368,F,Black or Black British,other,8.0
+443f4225-ab6a-43a4-a5ef-bd03a72c59d7,F,Other ethnic groups,other,55.0
+2a3d0d70-5d10-4898-92da-ed8ab812f980,F,White,alone,33.0
+8bf33836-aee5-4136-be4b-bcd90a77d086,M,White,elderly,30.0
+c2252234-97dd-47fc-b1ad-db9329282425,M,White,other,40.0
+b44ca374-b0f5-40c3-a843-6da9eb9cea91,M,White,other,12.0
+1c8487ce-2cae-4b61-90f9-51ed221f2038,F,White,other,19.0
+050b55f1-e5e9-499b-ad5a-d6c65ea92183,M,White,other,56.0
+033aea36-b081-4e98-8929-2e81b237b931,F,White,other,10.0
+a9623adf-a655-4368-a48d-0ef2ea9e27fb,M,White,other,31.0
+3d84db1a-5fa8-4af9-b997-31a20566cdf4,M,White,other,55.0
+b1cb10be-6622-438f-a870-eec0205861f3,F,White,alone,49.0
+17fd8aa2-e2fa-42cc-8191-8079f7063904,M,White,other,6.0
+fcbe691e-39db-4ffc-b4e0-88b910e63824,F,White,other,41.0
+9a00b07a-e814-43b5-848a-31e13d18b8db,M,White,other,45.0
+3a72c353-1dcf-4491-bd3f-3af74709baa6,F,White,other,6.0
+b09ea767-63d8-485b-bbb8-51a9a10e76f3,F,White,other,58.0
+ea250d6c-a378-40d4-8d71-db5190f73b28,F,White,alone,14.0
+28e7b723-47e0-4559-b848-aedadde2862f,M,White,other,45.0
+1eb8b93a-0dc7-4d66-95a1-afacb8ea7ddb,M,White,other,70.0
+d7186832-cbdd-4391-9144-9f868b478844,M,White,other,8.0
+fa4b8ff7-3798-4726-982b-cf4f6d2e4c10,F,White,other,25.0
+dd98cf09-b9c8-41e4-bc75-e0ec64fd3055,M,White,other,48.0
+12972d3f-c1a0-42fc-9d37-035df7dafb29,F,White,other,54.0
+94babc73-ca40-4882-9923-1c6eb7bcc416,F,,other,63.0
+01fc80d8-d65a-41da-b352-e37c3279f53d,F,White,alone,54.0
+975cab05-6020-434d-a130-c234a9292cbc,F,White,alone,24.0
+969ea6fe-6ff9-418d-8290-4a2fa7ea5929,M,White,other,6.0
+065ad278-a42b-4df9-9d3e-e0ac10577400,F,Mixed,other,1.0
+443e4dff-7d32-47ae-81b5-8837a020c2df,F,White,children,28.0
+eb72e0ad-1733-4958-bf58-75dad38f0eb0,F,White,other,47.0
+486cda72-d34c-4151-b5aa-7a0fa952ea83,F,Asian or Asian British,alone,64.0
+3d12ecbc-2a74-4c2c-a74d-e0359fc592e2,M,White,alone,66.0
+fb8d8f39-c568-4e1c-8521-ab3069eb3f0f,M,White,other,1.0
+7172ea10-7a75-446d-bff5-46ad89be4b2b,F,White,other,9.0
+2ed4a18a-4d8f-49b3-844b-5776a14919cf,M,White,other,52.0
+920fa468-db18-40e8-9e88-d3e546efab0f,M,White,other,40.0
+f0228973-4e09-431c-8578-911b131b1ffa,F,White,other,30.0
+230d82fd-ea74-4cc6-8c6c-1ae6fe1c177e,F,White,other,3.0
+b85770cd-6f3a-4de6-986c-acff28e7cca2,F,White,other,72.0
+c3413bd6-cf32-44b4-89cb-8166f3454807,M,White,other,35.0
+e7c8487d-0ba4-4dd4-89da-62979aa2663e,M,White,other,12.0
+803571fb-0a97-411b-be66-357ec9edd3c5,F,Other ethnic groups,alone,24.0
+28064d73-0459-4d96-9009-d0975a3855b5,F,White,alone,25.0
+fc81594c-2a50-4273-8042-e0171245bb54,F,White,other,11.0
+6abb4a78-ee3c-4f02-bcd6-a5260aef2210,F,White,elderly,29.0
+0eb7bd5f-1432-4202-871a-ec43e752c45b,M,,alone,58.0
+e60a3dc6-6e8c-4794-80c7-cac4b815b6ae,M,White,other,43.0
+30eeb1ce-7b97-4b89-8a4a-cfc184c6331c,M,White,other,12.0
+148e9138-956b-4da2-be5f-ce6cebf00741,M,Mixed,other,32.0
+63ea6734-71da-4f9c-9024-f37a34b14570,,White,other,20.0
+03c64a74-f994-47e0-b455-0d5bd0ba1cf4,M,White,other,23.0
+61ea0d3e-9ac4-41f4-9d6a-549dfa50f4b7,M,White,other,29.0
+76a79727-1855-4d7d-bd5f-0594da6faa3c,F,White,,29.0
+9e99ab00-e1a4-4886-a1fe-1a40d6ab3908,F,Black or Black British,alone,71.0
+d6140b60-aab3-41d2-8188-ff21c35e19aa,F,White,other,45.0
+e573e05d-b600-41ad-8bb1-0b0be2d0438a,F,White,other,61.0
+5d37fc66-d1df-4c9e-b5ef-4ca71cd39bdc,M,White,other,29.0
+f5813a70-bdcf-4c88-a963-350862160c3e,M,White,other,48.0
+9626808b-6565-45fb-87f2-f8e72ac30682,F,White,other,15.0
+2f8bdec3-67e8-4b26-8310-a95a05ed39f5,F,Black or Black British,other,25.0
+15112d84-c476-46c1-9592-d4af8b77aa6f,M,White,other,1.0
+4cf0924f-9fea-47d3-8d46-ea797c1803d4,M,Other ethnic groups,other,30.0
+e26b08c5-8be4-46ff-be35-d0d11e9b82e2,F,White,other,57.0
+cb39d3a1-4def-428d-9b6f-275fbd21227c,F,White,other,1.0
+f73d9173-93b8-4c4e-9b6c-401e061d8b40,M,White,other,10.0
+b995eadf-e544-451a-ae2d-6913a1e9cfcf,F,White,other,62.0
+f3a45ed4-07b5-4c77-ac44-af6ca47e1d50,F,White,children,41.0
+45c6cfdf-1620-4e59-bb61-b8c282c06bc0,F,White,other,35.0
+f3d98c1f-da8a-4f3b-8c7c-8f3d920e1130,M,White,other,18.0
+7733987f-fd7d-4f19-9e50-d1c40b4de2da,F,White,other,55.0
+9ec0cfcc-fb0f-4ccd-a951-941d62526fdb,M,White,other,70.0
+43aeb56c-b53b-4ec1-a31b-b83c07fd8161,M,White,other,29.0
+9688248e-cb5a-4939-98b4-aa528c2879c8,F,White,children,4.0
+c1a34c1d-919f-4911-a161-9b487a8b7232,M,White,other,56.0
+133d90c2-744c-4be4-84b2-efd0d79e5c46,F,White,alone,25.0
+6ccd1f74-3b7e-4d45-8dd1-7a47a7b4d503,M,White,other,50.0
+5b59ecf8-afd5-410c-a1a8-4947eb83eae9,F,White,other,51.0
+7d26c07e-a6a0-4afc-b77e-21b5c8230cbe,F,White,other,49.0
+a408d3a2-bf4e-40f2-b4cd-58447ff5f876,M,White,other,2.0
+39210f8c-6c08-440b-9938-10a80cc86b36,M,White,other,25.0
+0022cfa8-b97a-44ed-944a-75aa628fa38d,M,White,other,67.0
+7c6c8ea2-6864-4d50-ae48-1bb771c118f8,F,White,other,63.0
+da5d409d-68cc-4bf5-b771-b934f16e4394,F,White,other,17.0
+9d86dd4b-c169-4ef9-9e52-a8d6f5c91231,F,White,other,64.0
+2e356008-f0a8-49bd-8492-7f88012dfe93,M,White,other,69.0
+5949a684-3cb5-4feb-974a-21bcd8cd9e80,F,White,other,55.0
+d5267dcc-24c7-4c53-94d3-92a1332a1010,F,White,other,51.0
+08168e20-5934-4614-8a8b-8cab7828e3fd,M,White,other,44.0
+9c346252-791b-4b17-936f-88c9018069ab,F,White,other,12.0
+ecd8258f-2419-451a-b9ff-71dbc76a6f2c,M,White,other,5.0
+7d2a4c9f-9aa4-4c3d-adfc-8804ce3d46cb,F,White,other,67.0
+99667f41-5b00-4e6b-b1ed-ce16fb8403fe,F,White,other,8.0
+734baa61-2549-4661-8f4a-a521cbb2d767,F,White,other,15.0
+a84c30bd-8ebf-4693-9b75-12e59ef36abf,M,White,other,14.0
+0f1afb07-9eb6-48a2-9377-fd4ecbd8c604,F,White,other,1.0
+d8d94eac-fbed-40e3-bfdf-1a8d52cdbe28,F,White,other,40.0
+38df4244-172c-42f3-acb8-4ce64a946d02,M,White,other,67.0
+fbb94815-db08-42d2-b58c-91ae53b54ba6,M,White,other,63.0
+63518e5d-c952-468d-8d75-3a2161f941d7,M,Other ethnic groups,other,28.0
+13f50769-3d77-487b-8e12-74103daa78bc,F,White,other,31.0
+99b117bd-0591-4113-9be4-ecdb9111a6f0,M,Asian or Asian British,other,19.0
+ebc10978-d942-4881-8cfa-ef8917fe62af,M,White,other,68.0
+db6f1b8c-b311-4596-8560-441c6694ed48,F,White,other,33.0
+f046431f-b764-457a-a176-5ebdbe438eef,M,White,other,22.0
+7c622061-95fe-468c-93f6-b1145753edaf,F,White,other,15.0
+4d44d851-d817-457f-8339-c350c6e00920,M,Asian or Asian British,other,26.0
+301493f5-0242-401a-8cda-6c6874df3cda,F,White,other,54.0
+f3221a1f-b154-4740-a536-4f6fe55a3c56,F,White,other,69.0
+c9fb8b2d-2c91-4751-805c-51451d9c68e6,M,White,other,54.0
+1592ad9f-1ac2-4a17-88e3-146358757383,M,White,other,38.0
+368eb43f-2564-49d7-8346-f220c6084b0d,M,White,other,43.0
+54d20db3-ef84-460e-95a3-e3bef055251c,F,White,other,24.0
+1e73f0d5-0741-4bec-8797-f9f5d25a3662,F,White,other,52.0
+2bb8e65a-30b6-47fc-ab79-054f2004d637,M,White,other,73.0
+103b3aa6-82ed-42a1-9054-a8b236755168,M,White,other,43.0
+c87a8476-9f5a-4e96-aa7b-8720d12f7508,F,White,other,35.0
+7475b1fb-2e5b-44c9-91ac-5dccc400382e,M,White,alone,64.0
+729e0099-3f31-49ef-9429-c6e8b33b1671,M,White,other,19.0
+08fdbd39-f078-4e43-865e-1b0ac4616aec,M,White,other,21.0
+6abbb2ed-c643-4cc1-9ae4-604445aa9a46,M,White,other,32.0
+b9d69bc4-5486-4db8-93c6-f043d862a1e2,F,White,other,7.0
+10b0e53f-2038-4d04-b863-01f8c6a297db,M,White,other,47.0
+6ce55cd7-32e9-4438-8474-2396daf495b1,M,White,other,50.0
+bde5ebdf-68a5-4dff-928a-388524895066,M,White,alone,41.0
+8a5b3a6b-f545-42d3-a66a-ff3784c199cd,F,White,other,57.0
+fec24b1c-1d65-45d5-841d-8a43a0dd83b4,M,White,other,17.0
+5e0f06b0-7486-408d-b3ff-bdc500c0e628,M,White,other,22.0
+ea17d30e-8e0e-460c-9af6-e144bc85d1ef,M,White,other,53.0
+bafa249e-6266-4eba-862a-2ad64542b9ac,M,Mixed,other,38.0
+b9ab2ad5-d662-4f0e-a2fb-dd401bca034b,F,White,other,23.0
+0b7ce98a-3a93-4cb3-8e8f-9bc0e0c491ff,F,White,other,1.0
+12ec22fb-8622-4efb-9717-4fd84628475b,F,Other ethnic groups,alone,37.0
+f2b2c65c-d29d-4178-9fc0-40032c638448,M,White,other,35.0
+f197653e-5a54-4f9a-a773-a24e03af631f,M,White,other,4.0
+18e70929-e843-4cda-a359-706ac96d7226,F,White,other,23.0
+ecbf153d-e073-4b1a-88ac-a9dadb7dc8fc,F,White,other,29.0
+439d8454-be7e-46b2-8235-a4cd58b025b1,M,White,other,
+bc413c94-8804-425a-8eee-9098670ac710,M,White,other,54.0
+91ea80cf-4dc5-4953-b37b-5f5db130898f,M,White,other,37.0
+340409b9-11d6-4328-991d-8f692e25bb5b,M,White,alone,58.0
+74ebacfa-7336-4304-8429-dedda0ad8be9,M,White,other,13.0
+c4a22f72-3963-49aa-853c-4be4998b790f,F,White,other,59.0
+2f692025-973f-4c50-96f8-90b24f616112,M,Asian or Asian British,other,3.0
+4652270a-d59d-49c3-9a59-2ae5b0dcd8cf,M,White,other,55.0
+bc62faf9-b01e-4ac2-aa65-24a3e71d5d60,,White,other,62.0
+86c3c14d-5a61-4a1b-96f2-e7028439fc18,M,White,other,5.0
+2ea5dcba-89ac-4961-90cb-0b811ad339f6,M,White,other,30.0
+2a018d67-3110-481c-9694-f3468854f963,F,White,other,73.0
+ae459e1a-12bc-4c67-9409-008fcdcf5fdc,M,Mixed,other,5.0
+cd186e05-6387-4ffc-983c-a3a292c1930c,F,White,other,68.0
+8880cc1b-d5c8-425d-b979-0c320476d060,M,White,other,5.0
+ce057af9-8610-4a69-aa22-5df84eb66e2f,F,White,other,65.0
+8fe9c512-05eb-4f91-a30a-c1b34908f748,F,White,other,20.0
+f71a07ca-babe-4c57-aff3-794a5952efd9,F,White,other,69.0
+84df9e5c-5cf0-464f-be35-2b0bcbbb9b91,M,White,other,25.0
+2fb5e690-15a6-4871-93d3-487f3b13681b,M,White,other,25.0
+16e6f18b-488f-4c2f-af51-bfc485b3ccbc,M,White,other,18.0
+dc6656d9-24bd-42e3-be73-57e4a2e352ee,M,White,other,7.0
+c54b9508-4194-4180-be23-dec0f260d00e,F,Asian or Asian British,other,1.0
+d696e21c-ecbb-44f9-8177-858c37d3092d,M,White,alone,44.0
+fdd9cb65-a5b3-4871-ae43-a226390d79a3,M,White,other,5.0
+5335fde0-b65d-4c9a-953d-ba6c02e7898d,F,White,other,11.0
+a68f0adf-688c-4742-aa0e-d72fc2c061b0,M,White,other,29.0
+c242e5c9-5905-4c89-a396-fe758220367f,M,Asian or Asian British,alone,40.0
+10a56c29-6002-4f51-b519-11fd187dfc42,F,White,other,38.0
+59cd1149-49a7-4408-86c2-e18412ced50f,M,White,other,73.0
+124aa945-9a47-4c27-af6e-4226751b8072,F,White,other,18.0
+d7328244-0afb-44ce-a0fa-45da4b638e5a,F,Asian or Asian British,other,25.0
+45d0a1fa-7ace-4253-a024-49d2627990de,F,White,other,58.0
+424619a6-e64b-4eb3-812f-15900cb02cdf,F,White,other,14.0
+e0434b5d-d83c-4c18-981d-2b3cf0ff333d,M,White,other,23.0
+323edbb9-37d6-4414-8338-d852005fcad8,M,White,other,34.0
+e6b64ab2-6ca6-4ea0-a140-e9dc77b9c5a1,F,White,alone,69.0
+4cc11b86-6a1f-4e4b-9f1c-722f4977328e,F,White,other,34.0
+2e807b27-54e8-4653-89d0-39d1c185962f,F,White,other,30.0
+9775873e-2c21-49d4-8613-ccc814576b19,F,White,children,58.0
+a16336c6-e845-479f-8a75-e71cbe24beae,F,White,other,53.0
+70136740-9df5-4282-aef7-c1d9e7eccf87,M,White,other,16.0
+a7661092-0e0b-467b-9bc4-d8ef26cf6de2,M,White,other,32.0
+6459aff3-0b50-4b34-a686-41177daf431e,M,Black or Black British,other,3.0
+6341afe8-cd09-4a60-8a74-ce946c2eeedd,M,White,other,11.0
+7fc26539-71b9-4623-9b76-0872dfceb1c5,M,White,other,22.0
+bba4b8c1-6e39-48c9-8e90-f33863ccc6d1,F,White,other,18.0
+46114319-9f45-41f2-a290-b15968c753bd,M,White,other,60.0
+91f6b020-19a6-419b-9a28-90e6d7ab866b,F,White,other,40.0
+b180058c-2034-4bcd-9367-5141a4f37a1c,F,White,other,56.0
+5aaeba4f-cb05-43b4-a1d3-3b71b8071710,M,White,other,52.0
+e760c78d-2494-4db1-805c-d4eba3b49de5,F,White,other,65.0
+cb4c9c0f-2164-4a30-a14d-8049b21ed8b9,M,Other ethnic groups,other,66.0
+8b387c0c-5440-4a25-96ba-7a244674d274,F,White,elderly,72.0
+0c43134a-090f-45d1-af1d-6bb363350093,M,White,other,24.0
+e76a50f1-4f22-43d8-bfd6-48db5db08f83,M,White,other,15.0
+37680f99-f171-4b30-abe4-c6cf1197fc41,F,White,other,8.0
+f96f400c-9334-4320-9985-9121c66a7ab2,M,White,other,70.0
+cddc653a-3483-41bc-afe6-1ae0d168b5eb,,White,other,1.0
+b74e8fd4-7643-40ac-beb5-0c65cebd7d09,F,Asian or Asian British,other,32.0
+64f4f299-dda3-425b-a688-3d92a3eaffff,M,White,other,32.0
+e5f7b369-426e-491f-a81c-54f5825a210e,F,White,other,20.0
+cd065130-181a-45a7-91a4-e783cde1c972,M,White,other,55.0
+0ae8a1d4-5488-4dec-9353-ba9359439c71,M,Other ethnic groups,other,8.0
+8b1dda7b-9b77-4d40-b397-0df5f872b64d,M,White,other,19.0
+914b942e-f27c-4557-8f9e-a4811b4beae7,F,White,other,12.0
+791e7379-1b5d-4747-bd72-6406bf94bae0,F,White,other,54.0
+f10bf32b-6131-4607-b4a7-7de52d7fba8b,F,White,other,
+9b974a36-0069-4479-b3b3-7a6f83255752,F,White,other,52.0
+04151bc3-c60d-4c6b-9cfe-9794f289c8f7,M,White,other,37.0
+f05a2b12-afdc-4d2b-af88-be29b72741c9,M,Asian or Asian British,other,2.0
+724cf5b5-f024-48e4-8893-471669e724f4,M,White,other,10.0
+f5475263-1374-4e4d-bf3b-4c720ecb4151,F,White,other,
+ac4785bc-e12e-489e-853a-fdd947c83ddf,M,White,other,41.0
+e6830aa7-6d61-458e-8e7e-5e1e83433d8b,F,White,other,74.0
+bcc6620e-71a0-4b65-a6fc-34f00ab1fa6b,M,White,other,42.0
+0566f150-46bc-4544-9358-bbc95cd325f8,M,White,other,71.0
+37c302da-896d-49d9-a0a1-71f8abf36da4,F,White,other,45.0
+5f624ddb-dc83-410b-8f22-2da7effe35d2,F,White,other,44.0
+cab7c9b1-2a5b-42a0-aec9-3b4815b68459,F,White,other,26.0
+574687d4-0f95-4207-b82e-d79a4041478a,M,White,other,70.0
+a4fda580-7f3f-4ca9-a604-3dcb5bf57fa3,F,White,other,7.0
+7cefadfb-1706-4325-a2a9-ecaf7ac24969,M,White,other,40.0
+8332fc35-ea89-4a18-a58b-52e422cd583d,F,White,alone,
+f23781f1-ec9d-47f9-912e-5a52a11b8bf1,F,White,alone,58.0
+b7d36672-fa72-4223-b9f8-aa75b9652a42,F,Black or Black British,other,11.0
+e86c57b0-cac2-43bd-843a-72120bdbbdad,M,White,other,38.0
+a2a7a44b-7348-4363-958d-e8be66a6f00e,M,Other ethnic groups,other,70.0
+dbb26f57-bc54-4a3b-8bad-3aa5c8a2bec0,M,White,other,70.0
+6ac49648-2274-4e33-bada-58c08fe79346,M,Black or Black British,other,57.0
+b23fed5f-4886-450f-ba5b-c84080513914,M,White,other,26.0
+07ea281a-6d2b-4a18-a9d3-f07cb0cb41e3,M,White,other,34.0
+e36da2a5-af17-43a4-b6b4-4740db9a1627,F,White,other,65.0
+2e7038dc-07f5-42c6-a1fa-570d42b1635b,M,White,other,44.0
+f74e3439-7f38-46af-b8ff-b4b3fb42a7ad,M,Other ethnic groups,other,74.0
+fc6b23f9-92ed-4b06-b539-5c3b75165253,F,White,other,15.0
+269ffcf1-68cc-41f3-a53b-ba0b8b8116e2,M,White,other,57.0
+a66c104c-2373-4622-b9c5-0312b521526f,F,White,alone,42.0
+43fa7a91-ed09-4808-8112-ccf95935f17f,M,White,other,70.0
+ebbf7238-8aa0-4ff3-8c49-4de657c46d68,F,White,other,28.0
+2fc0f8e4-398b-40c0-9994-e4388d24c47a,M,White,other,47.0
+d3e4be14-44dc-4c66-b628-f61add076a68,M,White,other,9.0
+01bc3271-5fae-4c0f-b380-9664ea7c7a3f,F,White,other,8.0
+96096300-c6e0-4b4d-bd52-958181b4c57c,M,White,other,67.0
+c9b5a286-4194-482a-9b60-a4c65e1eb8f4,F,White,other,8.0
+11276c86-2bf9-4877-91ea-a015de22a380,F,White,other,1.0
+3ce61378-0c30-44a1-8a87-cbd66960c7a2,F,Mixed,other,10.0
+368fe382-68ea-4b17-9003-e4f432eca4f6,F,White,alone,68.0
+6bc47258-6b57-40b3-8b01-2d1f9b7c3b36,F,White,other,65.0
+9a8acb0a-7b64-4b54-a628-b1d04e65e6bc,M,White,other,3.0
+32ff624c-8123-4456-9172-e571fc7b6f63,M,White,other,10.0
+4d18843e-15bb-49c0-8701-096e9f4187e6,F,White,other,63.0
+5d557db4-5c70-49ce-adce-0f532dc248b7,F,White,other,24.0
+bece71f4-59b8-4fc9-91ef-0296bfe62059,F,White,other,6.0
+5ec54c81-49c2-4c5e-8900-8abda9d8e0a9,F,White,other,40.0
+6aa2c224-e7e3-4b53-8290-868b11b009c0,F,White,other,71.0
+1de17292-363b-49fd-acf5-ed6f0912ed72,M,White,other,62.0
+22be6da8-ad71-42cd-8769-4b8824bac19c,M,White,other,8.0
+9233fa7f-cc85-4c6b-93f3-36652be50a1c,M,White,other,12.0
+5072686c-163d-4f1f-a501-604eb29c4651,F,Asian or Asian British,children,37.0
+c5a9a741-28c4-42ea-a50e-7a24af569bb1,M,,other,38.0
+300c7a05-7915-4fff-9797-860eca442f0e,F,White,other,36.0
+0de0a207-f5b4-4eab-aca4-7441bb918ce6,F,White,other,57.0
+452e780d-1921-467a-8e73-7da8b9fa79aa,F,Mixed,other,48.0
+149eaebe-c415-4cf8-a2d7-c11d03b7cfa8,M,White,other,69.0
+462873ca-da47-4e10-b733-9c764c3e5a09,M,Other ethnic groups,other,7.0
+0386d105-2234-4df9-8daf-d83d03b5fc59,M,White,alone,16.0
+8cbc2b5a-4919-44de-8239-b923f5dbd503,M,White,other,55.0
+cea3434a-0842-4fac-bb97-b3846008a6c6,M,White,children,6.0
+9a5e3b87-dcd5-491e-a8eb-fe640d8ebe7b,F,Other ethnic groups,alone,74.0
+3098acb5-116d-4486-89ce-6c8cc726adaa,F,White,other,33.0
+9153cc51-b3d7-4d0c-b8c2-3c897d1568dc,F,Mixed,other,20.0
+acea675d-eb8f-4e55-b11d-8777dcb99b51,M,White,other,2.0
+93b94ef0-a7d1-4db9-9767-8507acca91ae,F,White,other,46.0
+9bbfb945-d119-494f-bc4e-e2572bf340b1,F,White,other,19.0
+233453b3-a628-462f-873a-1950994275f2,F,Asian or Asian British,other,24.0
+87ee7c35-fdd8-4fa1-844a-7ad88511ad00,F,White,other,18.0
+1e0ed114-4584-4aa8-b35e-8c81a69c51b2,F,Black or Black British,other,55.0
+e0b89166-8090-4458-87ce-a54a6b8ed26d,M,White,other,59.0
+b06a78c2-ecdc-44c5-b35a-32ac034b70da,F,White,alone,28.0
+f75f3032-05df-419c-b5be-0a967c1e916b,F,White,other,21.0
+2d320da3-1e28-4630-95cc-6ff8b9a3c76a,F,White,other,53.0
+428074e6-bbd7-42bd-8861-2389861c5db0,F,Asian or Asian British,alone,54.0
+c72f9d22-4012-4258-9f2d-a55ec0a264d8,F,White,other,53.0
+1a2d0643-a92c-469b-8820-f157e1bde79d,M,Asian or Asian British,alone,55.0
+29fd9491-f1a7-4f24-ada8-10d393cce877,M,White,other,50.0
+1c6cf00c-0e9e-43b4-8173-645df3b14cdc,M,White,other,40.0
+44c12f97-5909-4d0c-91c0-a7ade6656779,M,White,other,33.0
+f3aeff68-cb48-4596-b0ed-bf0a2a65ef52,M,White,other,3.0
+4fc9f65c-fe6f-41df-b120-787a08ae57d2,F,White,alone,29.0
+5fad1950-896e-4189-a273-5d791bff5bae,M,White,alone,46.0
+ffda71b8-f973-48cf-85d2-d6dd721fa544,F,White,other,29.0
+c8cd7c25-9eb3-478d-9838-1d9f6b095154,F,White,,63.0
+9088039b-41ab-409d-aa8c-63ee232d7d33,F,White,other,60.0
+ab6b6a3e-d890-4c83-bef0-8349d0062f72,M,White,other,43.0
+c46811e5-0723-4854-b091-cb998a64a5c3,F,White,other,36.0
+8064d7e7-8458-493e-80df-ff1f26ce07b9,M,White,other,9.0
+6db55cf8-74a5-4bcd-93ca-e66d99219039,F,White,other,57.0
+0ad0df6c-f6ab-422e-96ba-2b84565239e9,F,White,other,67.0
+b045eff1-53b5-4fda-b5b1-3e6df4b27b69,F,Asian or Asian British,other,69.0
+d07d90a8-c4c8-4db5-8eb3-8242bdd5d168,F,,other,6.0
+2cdf36d4-9291-448c-ac12-cbdc627a9c65,M,White,other,45.0
+9ed43584-61a6-4195-a363-a031839f778d,M,White,other,69.0
+3e54002f-0474-4aa0-9225-4e5592da30a9,M,Black or Black British,other,60.0
+d1b99066-9ef5-4d1f-8b2b-1c4295da41eb,M,White,other,34.0
+22195daf-cd84-4fec-9f28-2a55cea5f3b8,M,White,other,65.0
+0ccada58-c546-46c9-8122-bf70517ba9be,F,White,other,50.0
+5668b0c0-0f56-4423-be30-d9633df90036,M,White,other,50.0
+5ffa9d1b-0807-4539-a6a0-e6436f305adb,M,Asian or Asian British,other,34.0
+ffa5d25c-dced-4c83-a7d1-d7ab9fc1b354,M,White,other,49.0
+27f08c9a-c47b-4b75-a7d9-db2b8ea46c62,F,White,other,70.0
+cda6a2cb-fa60-49e8-80cf-e59c2f0203f7,F,White,alone,34.0
+12ffa904-bf94-4753-8ab4-6bbd057c76bd,M,White,other,42.0
+fa128759-f610-4dbb-81d3-3f1e3eecaa1c,M,White,other,28.0
+7e8b8611-9966-41d3-be7e-d8a47030b1de,M,,other,10.0
+b6fccff6-febd-4908-b58e-77694b37fe24,M,White,other,12.0
+7fc1c567-b580-43ef-9db9-619608960ef1,F,White,other,27.0
+740ba82a-d18d-4926-b405-d5de61238fc8,F,White,other,46.0
+8d2a4a74-2147-48b7-89a6-218eb6724f7f,M,Black or Black British,other,1.0
+36f81237-f17a-471e-8c6d-ee694bbb0e3d,F,Other ethnic groups,other,47.0
+32a1f905-ceeb-41db-9ea9-7ee7bdf4d97e,M,White,other,27.0
+f2a93d8a-1cf6-4d11-bc5d-9fe493c9b795,F,White,other,6.0
+82ea2831-55a2-41a8-8cbc-6d35ec47015e,F,White,other,43.0
+21b59beb-666e-43bb-8c98-49cffde91187,F,White,other,61.0
+46bd0c1c-d2fa-4fcf-aa4f-f56bda42d51c,F,White,other,12.0
+12e0c44c-6f71-4f66-95f4-2e38168a6ed0,M,White,other,2.0
+c8132261-b991-4012-9fdd-a09ebc360c5c,F,White,other,17.0
+63a22207-5d7d-4567-a542-074974bacce0,F,White,other,18.0
+778b882a-46e6-409b-b894-0857a0744a94,M,White,other,29.0
+779b5893-d2eb-469a-b84f-a36afb06f680,M,White,alone,23.0
+97058de4-7c9f-4035-ae98-74013e81e0c3,F,White,alone,18.0
+5e1744b7-a160-48b0-856d-fde8acb7e508,M,White,other,49.0
+fb8b50cf-e515-47c2-a45c-7544f6d6ec6b,F,White,other,15.0
+71270a64-bf7e-48dd-a6ea-52252aa74241,M,White,other,50.0
+b419c41e-ea22-4e50-af53-99dfb7be23a0,F,White,other,32.0
+ae32a3c0-fb97-4c41-810f-44b6f2dd014f,F,White,alone,29.0
+0e788300-762a-4cf0-8ecb-292ae92d675b,F,White,other,43.0
+be659b23-27de-4801-b58e-ac622d104e2b,M,White,other,63.0
+4ceec492-026e-49d6-98e2-3dbc615ad4e6,M,White,other,43.0
+8f6451b4-02b0-4f37-ab38-08209b1865d1,M,Asian or Asian British,other,34.0
+411f94bf-e529-4818-845c-be89b37f41a8,M,White,other,68.0
+b8271965-b3c1-43e0-b3d5-63fdffeca51f,M,White,other,21.0
+b5e026a6-7223-4878-b2a7-222df5e1241a,M,White,other,2.0
+97a4979e-d199-4450-9e1c-f9f095880189,F,White,other,43.0
+270af58f-f43c-42e4-bc67-a88246fe05c0,F,Black or Black British,other,48.0
+784eda62-6334-4ea5-a3e3-6f7487873fc1,F,Mixed,alone,65.0
+b0e0d42d-fdda-465f-8384-e2cfb388e567,M,White,other,45.0
+676c2258-f9f7-43c9-a4c4-5e443bb626f6,M,White,other,39.0
+c43cd658-ed03-4660-b2b8-fc8cd46898ec,M,White,other,57.0
+7b569791-83f3-46cf-bc9b-2c9755a95828,F,Asian or Asian British,other,64.0
+04719b36-0413-4338-9a6f-b1f9ac01abd7,M,White,other,58.0
+89c38b00-eba0-4718-a17f-0e6c8614249d,F,White,alone,15.0
+f204e1ab-7f5c-418a-8f8d-6fb32448f329,M,White,other,7.0
+f2a9ef11-d605-47e8-8a8d-1ea962314beb,M,White,other,53.0
+0da220a0-735b-4e93-a29d-aa53abfce22f,M,White,other,43.0
+bf74c8b1-e15b-4a78-925c-c7565543a5fb,F,White,,68.0
+526399e2-9f47-461a-8488-4ffebb9bbdb7,M,White,elderly,41.0
+7ce8d496-edf5-4537-948a-d3ce90f32cf7,F,White,other,45.0
+9be6042f-4e0d-4d03-be50-2f8e9b1fbbeb,M,White,other,31.0
+ee044971-eee8-481f-bc80-5227c425a7b8,F,White,other,63.0
+f5efcb55-7dc5-47f2-8e03-b832b4b6a8ea,M,White,alone,66.0
+37d54a2b-32ba-48d3-9f6c-5d1907c7cba6,F,Mixed,other,53.0
+c28e9bb0-8c47-4f3d-9583-269202eabf71,M,White,other,32.0
+8cabdb18-d356-4b18-a20b-ad7b166a6a45,M,White,other,1.0
+9a553d48-25fb-49c5-a4ab-98d08865fc67,M,White,other,30.0
+608ae618-9fa2-4ec2-ac26-734eb3641dce,F,White,elderly,17.0
+dc2ed800-3e12-4878-b975-7cf4068294e0,M,White,other,21.0
+b52c2269-377d-4be3-9b8d-f55d75f79123,M,White,other,52.0
+95c5bbe9-71ac-4358-bf1c-d2cecdefb053,,White,other,52.0
+a59d8a5e-ace5-4acf-9607-38722512cde5,F,White,other,44.0
+fb532a93-ecf5-488c-aa24-baa8de8ccb8b,M,White,other,14.0
+380819a0-c31c-41d6-99a3-14ac4d5ea3bf,M,White,other,10.0
+0dc6726d-724a-4333-a958-9cc232240230,F,White,other,
+5d7bfa6f-aa90-4b59-9648-a7c7cb8f9f71,M,White,other,14.0
+4d28def4-72e3-4b2d-a29e-2a11d943024a,F,White,other,47.0
+5f6b1e2d-8fbf-4fc3-945e-b86415b9e512,F,Other ethnic groups,other,
+929c8d4f-4cbe-49c7-a099-c3528b361174,F,White,other,6.0
+0f7ca0be-b5da-4dc2-8746-ec904c8d23a2,M,Black or Black British,other,48.0
+ada1de71-3ff8-4dff-81ce-2c69bb856160,F,White,other,40.0
+8240dccf-5ad0-4807-ad4a-fea69605ab0b,M,White,other,
+0714d39c-7b56-4c3a-b3b2-e04cca6465f6,M,White,other,70.0
+eb3be50f-5bc9-43e3-829c-cc9673b618c3,M,White,other,6.0
+f409b08f-e05f-49ae-b05e-c5296f65fd55,F,White,other,74.0
+d547506c-1fed-4e54-9f88-1f98a4f7ada0,M,Other ethnic groups,alone,31.0
+2952bd4b-f27c-4fd9-a7e7-3117db1cd614,F,White,other,58.0
+68e0ee11-d200-4900-adcd-c485991a06f5,M,White,other,61.0
+f5de9e8d-a208-44a2-836a-b1fa7e88aad4,M,White,other,49.0
+fcf3a0bf-81d9-48b1-b0f1-9c766d53ba0c,M,White,other,-2.0
+d4238495-c5c6-4429-873c-ba4149b0ee70,M,White,other,4.0
+b29867c8-8a6c-40bf-b901-8b9e7b1165d2,F,White,other,49.0
+ccc391a9-fcc6-4c2b-9af9-0d70c39ef202,F,White,other,24.0
+852e167a-6ad9-4409-8af1-d1ccba5dc8d3,F,White,other,20.0
+b060358e-3031-4ca1-97ce-9fe9cb23ac0e,F,White,other,33.0
+a607ab7f-6918-42dd-a2e1-e610f14003b5,F,Asian or Asian British,other,48.0
+0854d91b-1772-4028-92a7-7ec1e6956735,M,Black or Black British,other,5.0
+9e9648a7-9c93-4d99-8975-0d0b4b90a3c7,F,White,other,59.0
+01299f21-ce6a-4189-9f1c-c78375dde9b7,M,White,other,8.0
+234828be-67cc-4dfc-bb45-6ee61aa2a61a,M,White,other,42.0
+ec378b34-5c64-4cf7-b653-0073a2a0a66c,M,Asian or Asian British,other,2.0
+ab840c90-c5fe-4f25-b3bb-64bacb114907,F,Asian or Asian British,other,47.0
+01de5884-9f8d-4a96-bd98-c4c4675e0ee2,M,White,other,30.0
+932b6851-4b03-4109-a22d-5e654a2c2941,M,White,other,41.0
+474b2216-ec63-4c66-b996-4e8fc9c139be,M,White,alone,24.0
+3cd4e98b-2da7-4b89-81c2-b6585ffafe1e,M,White,other,43.0
+d44ed7a7-d678-4f3f-bad1-ddcd0d430878,M,White,other,69.0
+2cdc30ef-56a5-428d-a761-ca7bf3694b3f,F,White,alone,73.0
+cabbdb72-abdf-4fbe-99d2-cf830e2123a1,F,White,other,35.0
+1b28060b-da52-41d4-ae97-749852b1c2d3,F,White,other,55.0
+d097cde0-5bbe-425a-873f-31b64d0428cb,F,White,other,29.0
+d93e5004-8b49-4f0f-903e-84389b68fa15,M,White,other,50.0
+ac61e151-7f81-48c4-b1d7-6e1f5e036ba0,F,White,children,26.0
+bb987d92-acea-4092-b34a-fb0dbfc41892,M,White,other,36.0
+f4a20593-8216-4d4c-8e61-4fd2574ab33b,M,White,other,36.0
+ee217f3f-7778-48e4-b49b-24e1d2f89591,F,Black or Black British,other,18.0
+8936ed83-f6ae-46cc-90f5-539a943736f5,F,Asian or Asian British,other,74.0
+58dda8de-3bc6-4e76-98fe-0e3b2148b9e8,F,White,other,1.0
+0c5970e5-4073-4452-a401-9b2074575126,F,White,other,72.0
+d41f4bb6-11e2-4876-9700-2312ea61f3f3,M,White,other,21.0
+c431de2c-0baa-4537-81a0-dfc4dff7d69c,M,White,other,21.0
+ae7e9eef-156a-482e-9c8e-e478f817732f,,White,other,26.0
+6503efdf-b385-4916-ba6c-907208789cbb,,White,other,27.0
+698186a2-6069-4711-89de-bc77ba0edf55,F,White,,33.0
+d082bb09-b376-4be3-8dc2-5666657a4d5e,F,White,other,27.0
+d7304170-b393-497d-bb7a-40a852add909,F,White,other,41.0
+9dd5f2d3-ec87-445f-a9d8-362f6b4e86aa,M,White,other,20.0
+a137469b-fdd6-4a19-9a34-69e8996b11d4,M,White,other,64.0
+4123e66a-ea5c-4fbb-aefb-ae084395b47f,F,White,other,54.0
+68251517-c32a-4ed2-b46e-72091e8575a1,F,White,other,65.0
+f1f5a7c6-4a69-411d-969e-78fde5188a49,F,White,other,2.0
+4483191b-4017-44ff-949d-12eba7861176,M,White,alone,58.0
+f5469001-f5dc-4148-ab78-6dc0b9bc614d,M,White,alone,39.0
+a0eb249a-9612-4e3d-a813-724f8aa86165,F,White,other,73.0
+c7682bb6-ccfb-4a47-99d3-0c61bd3079fc,F,White,other,42.0
+b8a5c4ed-b28b-461b-a332-a068a6262621,F,Mixed,other,1.0
+3eff4e0b-8026-4585-9d69-0f7326c7a6bc,M,Other ethnic groups,other,4.0
+d86dff21-9c03-4be0-a2aa-6f0dc3b86f68,M,Mixed,alone,5.0
+2abb9b68-3659-49d5-9693-40bec1c84834,F,White,other,61.0
+f13031d9-aca7-4313-8cec-7c7cc7c7c818,M,White,other,68.0
+4546694c-c82b-4eb3-822b-7faf7b512907,M,White,other,60.0
+0db6016f-e166-4038-b1f9-5bfa7002537f,M,White,,22.0
+290d0ac6-b536-41e9-b7f6-25b7cbc2278e,M,Mixed,other,66.0
+04a61e8f-9050-4d24-bf11-3a5b4340001b,M,,other,45.0
+9e1e2fae-b46a-47e0-aa89-5b05c2f0135c,M,White,alone,19.0
+2fede8ea-ca60-4d80-8763-9e08bed1279c,M,White,other,37.0
+a3fd6efc-ee69-4433-b1d2-b7824453e650,M,,other,41.0
+e35f6f5d-e591-404c-8ba3-56da9b18b298,F,White,other,64.0
+8de9e8b0-9118-443c-bbfa-1490e7759000,M,White,other,56.0
+07d50239-b49e-4e40-bbfb-401010af8679,F,Mixed,other,6.0
+4f6fe66b-23c7-4b54-acfd-0aa62fcdaad5,F,White,other,70.0
+5ccb18bb-37be-47dd-af7e-3e7254fc6404,M,Asian or Asian British,other,3.0
+e1c3e06a-ca1b-4a78-a0e6-6c12dc4e2688,F,White,alone,74.0
+d889aa35-236d-4c8e-986a-337b77238569,M,White,other,60.0
+47c4e3b9-e18c-40b7-872c-30d1b3c4e093,M,White,alone,22.0
+6a3b10b2-dee3-4ee6-b996-b07ebb2d8558,F,White,other,7.0
+d952fe25-c61b-4947-897d-abe8e2352d71,,Asian or Asian British,other,46.0
+767691a7-b545-4551-9bb2-e6a33eecd7d8,F,White,other,59.0
+91410920-75b4-4e1b-ad98-5aab40666385,M,White,other,16.0
+398c0b26-9f25-4a28-96e4-69ef67fecc47,M,Other ethnic groups,alone,9.0
+cb824b46-9813-4c56-8a7a-176b943e1f0c,M,White,other,43.0
+b6fc867c-3303-48ad-9cab-6e87b0efb726,M,White,other,42.0
+5f3d9cb8-0f5e-464a-887c-fa515c7c557c,F,Asian or Asian British,other,16.0
+896be655-9651-488a-9914-0678b9c69262,M,White,other,44.0
+b0888793-91e5-4a02-a5df-44f73ebeb55b,F,White,other,54.0
+3bd8bb24-30bc-47ca-bbe7-0b1abc8594d6,M,White,alone,10.0
+166daa5a-4853-4bed-a36a-43ffcc9d1c5d,M,White,other,31.0
+2cfbed44-2dca-404f-b0b7-02cffa9495e6,F,White,other,69.0
+5848c1e0-b7ea-49e7-94a4-ffbcc883b21c,M,White,other,1.0
+4d8cbdd3-7b02-4f53-9889-443a313ef947,M,White,alone,55.0
+e674e4f2-7aba-4b2e-8268-fc1b6bc2d14d,F,White,other,24.0
+00af82a5-4c6a-4da6-b6c6-64b529bed468,M,Other ethnic groups,other,43.0
+de7f8757-f3cc-4aec-b8f9-e518641f1db5,F,Black or Black British,other,1.0
+a439886e-2b84-4598-a191-3b843ad59ee4,F,White,other,72.0
+30a98714-348e-4fac-a621-e51b2ada4efa,M,White,other,23.0
+a782401e-3427-458c-a45b-c2e035c4de98,F,White,other,1.0
+76cba241-0536-4278-8601-f9978f57ed2a,F,White,other,32.0
+91a2da3a-cdca-49d8-9cea-1ce57e63c734,M,White,other,12.0
+2313d03d-b2e7-4d5f-afac-41a34169b1ac,F,White,other,17.0
+8da8efd5-977f-4097-bda9-0b64a4c4cac4,M,White,other,6.0
+414cd7e4-d84a-43a2-99a7-a409489286f5,M,White,other,49.0
+c29ff0cf-f26a-4a08-bebe-c914133b0e12,,Other ethnic groups,other,63.0
+60bb3764-eb82-4b62-ad12-3dfd51c45b97,M,White,other,30.0
+18756d66-63ce-4303-a244-0eb65632f11c,F,White,,-14.0
+017d7c97-e6ec-4d64-af86-61c417fb5ad9,F,White,other,38.0
+417011c9-0505-4cda-a92a-d18c75c83389,M,Black or Black British,other,20.0
+5b15acbf-68cb-4dc5-8406-95e751428cdf,M,White,other,43.0
+6d5d924f-42c5-4b6a-8f9b-86e52fc54323,M,White,other,4.0
+a146787b-4b9c-4d86-9c98-3b9cb6652f6e,F,White,other,3.0
+ff9eda77-5e22-4cc6-8d75-d7bf01f2e223,M,White,other,49.0
+59e04176-44f3-4a24-b407-1a491ac7efa6,F,White,other,58.0
+fb3ea25c-d753-4600-8605-02209101dd8f,F,White,other,27.0
+79fcf39f-aeb6-4177-8025-93c544caba90,F,White,other,71.0
+2b80c395-cce1-4d98-a072-b6fe63545ea4,M,White,other,20.0
+8a648137-bc59-499b-8d8e-a70e41760469,,White,other,56.0
+62e93d5d-6900-4a57-bc5b-083c33eee221,F,White,other,29.0
+ed02b63b-8640-4bdb-8a2b-39205c607fd5,F,White,other,43.0
+76841189-7c06-40b6-8789-e4bf27b3df8d,F,White,other,21.0
+f6df766b-dd82-43c5-af49-dc6f5d335c9d,M,White,other,38.0
+e03ac70a-d778-4415-989c-d918b016e9d8,M,White,other,38.0
+979e7385-2850-4a78-b324-93c66270ff06,F,White,other,63.0
+b92c9c8f-a485-4ecd-80ab-d1882492c502,M,White,other,32.0
+9fe10ea7-a1ec-4c51-a0fc-ae6b5a42e398,M,White,other,50.0
+01aef716-c38c-4814-abb8-4a803fe5ba3a,M,White,other,29.0
+0e03d326-9ef0-44f8-accf-8ad3f7e4a003,M,White,other,37.0
+f91b89e7-59a5-47f4-8a96-80eeae9579ed,M,White,other,58.0
+e5b4eb7c-6b8a-4657-b9eb-447d720918e4,M,White,other,27.0
+607d6b13-1e7f-4ba7-b47f-400f612c8aa9,M,White,other,8.0
+89767104-28ce-4a8a-92cb-a7a9b0ac6b02,M,White,other,
+ff06e921-e8c6-47f5-b635-351f40d7c449,M,Mixed,other,3.0
+8d8807d9-17c2-4dfc-ad1b-4891d2b9a997,M,White,other,46.0
+925cc0ca-d5bf-4cf7-a48b-0eb52d1b31ad,F,Black or Black British,other,53.0
+5634ad1a-7883-4115-96ae-a0ffc8cf8232,M,White,other,41.0
+fe4d7360-38e2-464d-8465-1792f38040ce,F,White,other,74.0
+ce583249-2790-4bcf-9cca-819125f9db7f,F,White,other,38.0
+67cd678c-a2d1-488d-8f8b-39f40afb463c,F,White,other,52.0
+44156063-60ce-4e37-86a7-ad593f9ec9b7,F,Other ethnic groups,other,55.0
+30bb6541-fac3-43f8-842e-6ef26651ef54,M,Asian or Asian British,other,45.0
+2661b14d-d217-4b51-9b3f-198bfb842936,F,White,other,23.0
+db57393a-38de-4423-a25e-ffa4cb5e4172,M,White,other,64.0
+a40f4799-198a-4e71-87cf-b1ed575316d2,M,White,other,50.0
+3fb62850-3729-4eb8-a6a2-1ca5c5085d06,F,White,other,25.0
+2b244fd7-4434-4199-8548-f616f5cb8ad8,F,White,other,8.0
+23936b36-a36c-420b-b806-4f29749ca22a,M,White,children,72.0
+3b65eda0-9ebd-4a32-8173-3b6d2db582ab,M,White,other,22.0
+539eb15d-0753-4205-b3c2-73cb7a31698e,F,Asian or Asian British,alone,18.0
+31aab6b9-f4db-415b-92fc-1e3a25ae4340,M,White,other,46.0
+ca316c04-ea72-41a9-a72a-754d6d0486b9,M,White,other,61.0
+9e6e0e5b-2230-4ae2-8597-d0b6d2ae8b37,F,White,other,21.0
+fb9d47cd-c5d2-4bd9-b6db-1096247775f3,M,White,other,45.0
+da302951-75ad-4da3-99d0-89cb14ee8422,M,White,other,19.0
+da4e40b2-f997-46d4-a740-1eab77e53190,M,White,other,44.0
+67fe002c-2805-4c9f-86fa-edcc67cc835c,F,White,other,20.0
+21c85377-38f4-4baf-8c95-21f6a6233d01,F,White,other,73.0
+b3dacedf-2bf0-432c-8e70-1d47ffa0baa6,F,White,other,43.0
+bf796a73-7870-4a31-9c04-66ff1998bf53,M,,alone,42.0
+db8cc08b-679c-44c0-af00-f0c7802f6a1c,M,White,other,54.0
+9c0d09c1-7b31-442c-872c-92ca67ff5e0b,F,White,other,34.0
+c2924320-ab34-4090-9666-8c5248732cda,M,White,alone,14.0
+4d7a6717-d39d-4b49-8c6e-81ba92bb7fa9,,White,other,47.0
+2bc92fd3-8d4c-4b8f-a123-233f6d3f3e5b,M,White,other,15.0
+07537398-5783-498a-a36f-1e301bb2a66a,F,White,other,29.0
+54939730-ef5d-414b-ac66-a38c972736d3,F,White,other,30.0
+71130b08-ae7d-4dd7-a15c-91c3758aa8de,M,White,other,32.0
+f7aee598-3344-45a1-8b6f-648746815034,F,White,other,47.0
+3804da37-a394-409b-b1cd-4a6912a8ead8,F,White,other,23.0
+5f200460-c9af-499a-a8db-1a7f908b0f45,M,White,other,56.0
+c78d0629-c58a-4eb3-9c13-ebc69318d1ee,F,White,other,55.0
+c19199c3-1e6e-415f-920c-0807a6d4ace3,M,White,other,24.0
+84ba8b95-6efe-4633-ada4-9555f3d254ba,M,White,other,2.0
+8ded340f-5513-43a2-afbe-f43a58cdea2c,M,Other ethnic groups,alone,63.0
+7c138de8-61e1-42aa-af20-6e05f9ad9462,M,White,alone,23.0
+d3e89f9f-83d9-419c-ac24-c862c226a8a7,F,White,other,37.0
+8d1c3500-61cb-4a88-aaf4-fcfcd26818e6,M,White,other,36.0
+1b2be05f-e0a9-4525-80ff-18bc2c159d53,M,White,other,60.0
+e5062375-3df6-4e39-af58-b56c78c89590,M,White,other,49.0
+7e87c8b0-fcec-4221-a08a-b89dcd70a59d,M,White,other,18.0
+1568092a-9164-4167-8c6b-34abd4480ec3,F,White,other,43.0
+87295745-b3ae-4f5d-8124-d5bb79d255ad,M,White,other,49.0
+f00c0829-9516-4249-b7ab-54623e682314,F,White,other,67.0
+14866873-4767-4124-8ec1-1d35fac37a4d,M,White,alone,8.0
+545b8dfb-e78e-451b-9288-b25d5d5449d4,F,White,other,70.0
+867e618e-8c7f-4aa0-9a27-b8fc7bfab9e5,F,Other ethnic groups,other,1.0
+87ed1472-0b97-4c94-a6c8-a655604cb320,F,White,alone,4.0
+4ed9c66e-35a5-4d0a-9091-8c767f7e4a98,F,White,other,56.0
+a5bec1ab-c3e5-4fc1-89c0-81c9f06db3ff,M,White,other,11.0
+69d4f5af-8bb6-487d-827d-c19d08f552ba,M,White,children,35.0
+f64827cc-9e9e-429d-a7db-7e4f04cd042c,F,Black or Black British,alone,44.0
+45c8ce53-aa13-48d8-b02c-c8611a6e041e,F,White,other,4.0
+ab301ef9-f0db-4775-b180-8757a4046ba7,M,White,alone,45.0
+2328845a-39c5-4426-a315-59f073922374,M,White,other,30.0
+572a1b1e-8eff-4817-a8c1-98296712eb13,F,White,other,47.0
+5860bbc0-7f7a-4129-ac74-2ff255ec8606,F,White,other,44.0
+c1cc0d64-b01e-4fb6-bec1-ba8f5307784d,M,White,alone,6.0
+41bc77c9-777a-47fd-a1c9-d63ba1972540,F,Other ethnic groups,other,25.0
+cf825ff3-2815-4399-bfe7-2cdebaaca22e,F,White,other,72.0
+9d5ab363-8036-4782-8247-f1e48d52191b,F,White,other,10.0
+61a83a9b-1377-4460-aeb8-bb663b4023f1,F,Asian or Asian British,other,72.0
+fa21be17-030d-4b2b-aabc-cb24990cf377,F,White,alone,31.0
+a7afd70b-c300-4008-976d-dda3bf050985,F,White,other,46.0
+98d72dfc-c400-4a8b-9823-ccc45cd3b718,F,White,alone,14.0
+74b8deb5-b3dc-4618-9256-e2e0c4e3959b,M,White,other,15.0
+68e577ea-c316-4c59-9450-805d784351d7,F,White,other,68.0
+50987ab9-6a01-4f52-a436-c2b445797233,M,White,other,43.0
+0a648aed-b9c7-49ab-8de7-1eabe6f308f1,F,White,other,30.0
+0af3df47-d6a7-46ad-aedc-d0dd14450b12,M,White,alone,73.0
+7ad71695-a345-454b-b2e4-62f9383cd44e,F,White,other,14.0
+e0150f2e-32e7-4ed5-8214-76c3af9d707f,F,White,other,74.0
+84491232-2fb6-494b-b4f2-1998b50d1e60,M,White,other,2.0
+9969059f-60e3-4417-96d2-4c13ee7ea0ef,M,Other ethnic groups,alone,56.0
+d71a1008-4197-43af-a8b8-0f298d6bf696,F,White,elderly,62.0
+ce7478fa-5d05-4e90-afd2-ea47fadcc612,F,White,other,18.0
+c8de965f-42c4-41a7-a286-77397d11b9f9,F,White,other,58.0
+5228922c-7a9d-42c6-ba92-3bff7e286762,M,White,other,41.0
+b2a23af4-7980-45c6-b058-e56b299334e2,F,White,other,
+8fc992e9-1edc-4e6f-a688-850e8dbb9378,F,White,,72.0
+0ba84528-410a-4ecc-8a4d-0d1df6b70436,F,White,other,10.0
+4db1461f-bbbd-4409-bede-64d9acef17a3,M,Black or Black British,alone,15.0
+b9dec87d-2366-469c-941a-829c33a15f2a,M,Asian or Asian British,other,40.0
+40e37526-780e-49c6-9ecc-47dd9fe3a860,F,White,other,52.0
+cf40e208-1469-4dbb-b508-7001092e2a6a,M,White,other,26.0
+13428113-32db-4da7-a31d-fdd80335293b,M,Black or Black British,other,39.0
+389598ee-2e66-46b2-b424-e172e5d959e7,F,White,other,35.0
+aadc0b6e-4279-4d9b-b3de-5ecd2545f766,F,White,other,41.0
+23d1b827-92b4-4b59-b75f-2d8fed4d974f,F,White,alone,52.0
+1112411a-72ed-4d49-8d7b-b089a6b1059c,F,White,other,36.0
+0e11e588-3f19-4085-b21e-f2bd721d5ab6,M,White,other,36.0
+f9d63b79-66ec-4ce1-8fb7-ffd6da56e111,M,White,alone,1.0
+7a00b069-ff31-4be9-872c-221b096be60e,F,White,other,64.0
+203642c6-0601-47c4-b1ce-0ac5e3639a6a,M,White,elderly,51.0
+1d2fdaca-75ec-4f60-a8f5-2d215b84ed8a,F,White,other,22.0
+26cf6e24-790d-4074-b376-e12d64bf2cc8,M,White,other,35.0
+d130738f-e6bf-43d3-93ac-cc324ab80f1f,F,White,other,9.0
+2469c70e-c47f-4f51-b14c-c13a8654f04f,M,,other,38.0
+5dadbfb1-b0ba-4280-a753-b216a9b904df,F,White,other,28.0
+3a42587a-3192-46e4-959b-14b68c3141f2,M,White,other,43.0
+d6f9bb97-03c2-42c2-9eb0-a3854d550453,F,,other,21.0
+224287fb-f099-4bc8-88a8-08895d92d475,F,White,other,36.0
+ec62e6c3-3e54-4b18-afe3-5b6660bda32e,F,White,other,37.0
+dab9e703-c0ae-4d8c-a70c-bdca1c5e9d6f,M,White,elderly,18.0
+77951df5-ce27-484f-98b1-b035f3eed28d,F,Black or Black British,other,31.0
+bd4e2817-b18b-41e4-b39a-aea2da65b37a,M,White,other,
+9fbc2373-92c8-4b47-913c-4599a1653133,F,White,other,17.0
+8684d9ac-2db4-4e6e-934d-c875739f7a63,M,White,other,40.0
+cd56317a-fc52-4701-92ec-78c2c52c0295,M,White,other,29.0
+a6f62ae5-ab1b-46fd-bf2d-0d6bb4365846,M,White,alone,52.0
+60e9baf0-1b16-4b58-b7c6-33e5faf661c9,M,White,other,29.0
+9f6a1da3-5790-4cd2-b685-21a28ae6c1bb,M,Mixed,other,48.0
+ccf5450a-f2a1-4236-934e-395ed158c1b5,F,White,other,17.0
+fbfc239c-f481-4d8c-82ba-a0d2f2a31e0a,M,White,other,37.0
+465d6dd1-9735-429a-a5ad-d606486f9139,M,White,other,13.0
+8f56fa6d-f57d-4df3-8006-e0b77d9d33e2,M,,other,23.0
+f09d87eb-90a0-4c31-9122-6285041a1b4a,F,White,alone,36.0
+089b37e5-dbfc-4c18-a5e3-3e1c71360802,F,White,children,55.0
+55010ca4-ebfa-478a-bf85-7451f590f3a3,M,Black or Black British,alone,28.0
+7334f094-6ca1-4ee1-909a-8136ef1804d5,M,White,other,71.0
+4f3529c9-690d-4796-886e-aa5a8ad8c78e,M,White,alone,68.0
+5ab3e2bf-1d4d-4ec2-8703-c9d5f357ba12,M,Asian or Asian British,other,15.0
+ee975531-652f-4a0a-b1d5-0089be2d8869,F,White,other,2.0
+dfa6bc81-da55-410d-801b-af3cad01651a,M,Other ethnic groups,alone,72.0
+5a6b67ff-ec3e-42eb-b5ca-1a41cf32a352,M,White,other,72.0
+de29dc9c-a8a1-47e8-b60f-24e4ac3dbe14,F,White,other,7.0
+f706d0df-226a-4af7-8c20-53d68ff33a44,F,White,other,31.0
+61de6d29-71e2-4dde-b18f-a1f056201384,F,White,other,45.0
+2658f9eb-5e9d-488d-a469-e511be40e6ed,F,White,alone,61.0
+4eccded1-252a-454a-b0c9-05108cb46e7d,F,White,other,10.0
+44ec7356-e807-41db-9bc7-28c01121f591,M,White,other,18.0
+9c81375f-ad87-408f-a416-e3e87c056f56,M,White,other,18.0
+ae797d11-b635-4701-999b-a8462de731a6,F,White,other,52.0
+a012bca1-8549-4233-a4a0-9ac5e0e5f373,F,White,other,17.0
+db747546-0d0b-4ef3-bf99-85926fe13760,M,White,other,68.0
+3a688b47-cd76-451a-94f6-7aee0790db70,F,White,other,56.0
+a02deda9-ad70-4068-8f6f-8767cf19359f,M,White,other,61.0
+3a9e9409-685d-4a95-a9a8-85c29a27c092,M,White,alone,72.0
+8cd57765-9c8e-4ec8-993e-1670351d5c59,M,White,other,33.0
+004b912e-1e33-4ae8-a77a-0af616339e1b,F,White,other,29.0
+a9915618-9beb-4b97-a6a3-e5305361db40,M,White,alone,34.0
+21cfcb10-50fc-437b-8e67-364a4897caa0,F,White,other,4.0
+15a9f7a2-03b9-4d80-a23b-5844c5cdc5a8,M,White,other,43.0
+ba93edc7-1d65-4bf6-8535-69e48755d319,M,White,other,53.0
+c87d1407-cd2b-44f1-ab74-21458c5edb9a,M,,other,14.0
+b34be8c7-eca0-4e82-bf52-723224b14c4c,M,White,other,16.0
+c9724726-d8c6-42e8-b4bf-8d9210f7ed9e,,White,elderly,33.0
+17de698d-26a8-4ddb-8eb9-b4f4c9867876,F,Asian or Asian British,other,58.0
+fc32c633-64b3-4b42-aea7-b5a11c4ca537,F,White,other,25.0
+c0a63cd1-a8e2-47c0-96f2-c8649a66be81,F,White,other,47.0
+8be08be5-f4fd-42b7-b2d7-8bb98d3627c5,M,White,other,33.0
+bcedb999-d71b-4992-8cac-1f791252b4c1,M,White,children,66.0
+61227f6c-6a98-4bd1-8c66-4daec8277e41,M,White,alone,45.0
+59dea73f-6d6d-49ca-8fbb-585c43014eeb,F,White,alone,9.0
+8a805dc2-d47d-4426-afb3-5f50983ecc16,M,White,other,19.0
+5076f5d5-6d4d-42f6-aabc-3486716182c1,F,White,other,38.0
+ba49c775-491d-4131-8f5d-8bf1ee9a44b2,M,Other ethnic groups,other,65.0
+92330886-6320-4420-b32c-7992e1928985,M,White,other,59.0
+49f45ed1-72c7-4f05-a61d-c1f6e8c9475e,F,Asian or Asian British,other,50.0
+fad10691-b97a-4cf0-a128-6dde48253e07,F,White,other,10.0
+0c1fb905-3b39-4a25-b521-85d9bb8bcfbf,F,White,other,70.0
+4677ae69-245a-4ca9-92e0-c4f6a2a520d2,F,Other ethnic groups,alone,32.0
+db625a6e-d48d-4742-b534-8d5340f5362d,F,White,other,2.0
+08a7b2e4-10f3-43b8-88da-46752401df7e,M,White,other,35.0
+ad8365b9-8970-4c77-bb1c-51ea1da9928c,M,White,other,25.0
+5bf6cc44-4972-4004-8a76-f2371b296235,F,White,other,53.0
+4f9f0e61-3c4c-4551-8830-422af6f7abd6,M,White,other,45.0
+0096e4b4-c1dc-498f-baa1-b8e70a5bac06,F,White,other,18.0
+8191cb61-56e8-4528-a3f9-2da668ca3e6b,M,White,other,28.0
+77d19ea4-4e0e-4423-8a25-032c7eb60483,F,White,other,29.0
+88eaef68-8275-4456-8613-6db68b19de34,M,White,other,7.0
+6e7660ff-1e52-4db3-8adc-8c06823ea707,,White,alone,13.0
+bcd8b812-1b29-435a-933c-dedb1db8b218,F,White,other,10.0
+98597215-2bde-4e5c-a3a7-bafabe12dda9,F,White,other,55.0
+b857e0ca-d0c9-4384-bd57-c8021dfd0845,M,White,,54.0
+2e247f5d-fa22-45b9-bbfb-40dc8c4cc57d,F,White,other,41.0
+dce3d39f-f2b7-4cf1-85d3-e58ebf55d6a8,F,White,other,11.0
+1c3adbaf-0d36-4fad-b10e-2c136ce26c65,F,White,alone,32.0
+29751046-ef2b-4818-ab89-420954d3aba1,M,White,alone,58.0
+1ceab403-8b91-4edd-b63c-deb9fc7d7135,M,White,alone,64.0
+078c231f-0b8c-4dbf-8f6b-04220606e94f,F,White,other,55.0
+951aea9e-e73c-4cdf-bc81-4146c9dabb6b,F,White,alone,18.0
+248453dd-6157-482c-b2d3-47c257e2933d,,White,other,74.0
+7f9c1397-1f1c-488f-89d7-3e6848e9a2d8,F,White,other,14.0
+586f4b73-f989-4bac-8999-f276166a2cd9,F,White,other,8.0
+569b4cb0-7d3b-441c-a0e9-288746b1f299,F,White,other,47.0
+680c4dbd-d1aa-4862-9a18-99d50187e56a,F,White,other,28.0
+c5ddd853-d6e9-42b4-a35b-8af97dcdac18,M,White,other,18.0
+3d504fe2-7c2a-43fb-a2db-f9c551e96387,F,Black or Black British,other,25.0
+a4012860-69e2-4379-a96d-b98695af1667,F,White,other,22.0
+d2e0b1b0-2db9-4f66-a0f8-18f64cf18f03,F,White,other,36.0
+4aceea9a-b165-4b0e-b85c-9a1b5781b9ba,M,White,other,24.0
+85b4bdce-13c3-402e-8dc0-202ef754d6bb,M,Asian or Asian British,other,46.0
+b2a049a0-5eca-4550-b010-ce4790a421cb,F,White,alone,3.0
+b4509d56-6c02-43f4-bb31-fac3093f3714,F,White,other,21.0
+b08ae1c3-cada-4cc3-ad20-4851f7454bc6,M,White,other,63.0
+3b10dfc8-7b17-4433-a2b4-8e6b0d75f99f,M,White,other,72.0
+c4251448-0cbc-421a-9d91-a360dc5b5745,F,White,other,50.0
+6da206e8-f612-4c43-ab41-ff5045abd68e,F,White,other,36.0
+9fa3b15c-849e-496a-8292-b7ffa625e3ca,F,White,alone,34.0
+e8bb4c7d-183d-411a-b1ae-09702b3d4ff0,F,White,other,28.0
+e7833024-65f0-4d6d-8fe9-fdd8310b784f,F,White,other,52.0
+507ffc65-935e-43b1-b47e-36b4b3d467d0,F,White,alone,2.0
+b76d79bc-8733-4d49-8e56-355efedac727,M,White,other,48.0
+68d156a1-11bc-4c5e-b647-6c283cfe180e,F,White,alone,11.0
+1678915b-abe6-4805-b94f-1be20176f91f,F,White,alone,27.0
+70d9365e-9ae1-4ef5-844e-72544c979844,M,White,other,18.0
+bd767fd6-703a-4ef2-9213-f705751746f0,F,White,other,8.0
+02fd1e6a-4486-4bc1-85ca-9fee5ff15428,M,White,other,26.0
+8a3bd058-ce15-48a8-80cc-dcc8fb1cf611,F,White,other,53.0
+4064c064-3269-4e73-be82-1adc8cf0fd44,M,White,other,54.0
+39f1cc14-8b72-4099-a77c-ea78e39669f7,F,White,other,7.0
+5add8829-8e02-4699-9c58-fe1b6fa2c0e6,M,Black or Black British,other,65.0
+bb43d12a-ca8f-4613-92ac-ba9a3fa7b00f,F,White,other,35.0
+2c57fdc0-1ea7-4007-bf8f-9314fc050f6a,M,White,other,20.0
+df4b653a-022e-4e45-8613-81d0f7a1eed5,M,White,other,5.0
+49d76890-71ff-4e8d-b040-1468aa58ef00,M,Asian or Asian British,other,4.0
+deb83a41-afa7-4a3c-823c-5e50a933df13,M,White,other,60.0
+692fad69-f54d-4c46-a049-e377a4e7d959,M,White,,18.0
+a9eb132a-8469-454a-97c9-fe2df1bc81db,F,White,other,47.0
+9eb3b503-14c9-45d5-a1e0-085054a489f6,F,White,other,54.0
+af181d16-d02d-45dc-a4d7-adba7cbd1dae,F,White,other,42.0
+effc73bf-248d-4f7a-9129-cdeaf47e8f3c,F,White,other,
+cb366c36-0aac-421f-9c90-f447caba02b8,M,White,other,11.0
+f92fb32f-9758-4088-8389-16d7606c1d03,M,White,children,17.0
+8b1f5151-ff98-40f9-b2f3-b8c860722f79,F,White,other,69.0
+2822ee59-6502-4580-bce9-f22f98e15384,M,White,other,3.0
+a53e2718-2ad8-4f83-9db8-a92a8dead7a0,M,White,other,54.0
+2ec56855-0ef2-4e3c-a98e-9f08529b885a,M,White,other,34.0
+27805539-c367-4fcc-b6f4-493259c8326c,M,White,other,3.0
+56d9f6d1-9aa4-4c6a-8b3d-538dfcb6a2a6,F,White,alone,34.0
+cc148d32-2d58-476b-820b-b6b722d87766,M,White,other,51.0
+51457631-07e8-4fc0-958f-84000439bd21,F,White,other,14.0
+a7cb93f4-2a28-49c0-ade1-f091c75e0d24,F,White,other,56.0
+dd6f001f-0af2-41a8-b278-ea358017c8c8,M,White,other,48.0
+07b0b17d-e2fd-48b7-82d9-5e70724ff48d,F,White,other,12.0
+c547aa23-8265-4a34-977b-f4db0ebb1874,F,White,other,8.0
+4436b102-d485-4840-be2a-2612543c85fe,M,White,other,56.0
+ce732095-65a8-4a01-b751-5fc857974506,M,White,other,72.0
+474212b8-9f21-4fcc-878e-a2044b7f8dc4,M,White,alone,54.0
+d5870dc6-472f-4466-8ede-10c950b839ae,F,Black or Black British,other,52.0
+6e2b8519-b8d2-4d3d-807b-fa788a55d4b5,M,Asian or Asian British,other,25.0
+6b2ed21c-81e4-4a28-ba4a-089f062d3049,M,Asian or Asian British,other,6.0
+7c1db621-b757-46bc-bda5-403c340c4ef9,M,White,other,
+fcce4203-9d05-4757-976f-7406279b8156,F,White,other,22.0
+2891f1e0-bac6-4294-bfe5-588a333058c4,F,White,other,25.0
+e0819051-c776-4b01-a339-35e75cac8f65,F,White,alone,4.0
+c9049b29-4dd0-488a-89be-f7ab7dbfbe32,M,Asian or Asian British,other,37.0
+4a2c30ba-54be-495a-8e84-f99d5c3116fd,F,White,other,7.0
+29eef273-c384-46a4-9740-49d365e0d020,M,White,other,33.0
+e56bf083-5668-4baa-8ed0-515f28584de8,M,White,,70.0
+7af240e9-a39b-43c3-a8c8-9b2e336a07b2,F,White,other,55.0
+471ecc1e-1750-45c8-bc2a-7e1f441ee3a2,M,White,children,30.0
+e9e5232f-b5b1-4c80-89b6-dd7b34b24846,M,White,other,
+3b06b2de-d207-4b84-b7c1-c7731e680f4a,M,White,other,26.0
+3df827f2-f30b-4cea-9d91-439186d1997a,M,White,other,28.0
+deec2040-d794-480f-9daa-9090d92b89a9,M,Other ethnic groups,other,63.0
+af1bac35-95db-440c-a22f-9393069a697e,M,Other ethnic groups,other,48.0
+63975dd3-27f8-48d1-9bb3-bfaa147c5c1f,M,White,other,2.0
+6f842ab4-f39d-4eaa-b8f2-82d050358924,F,White,other,7.0
+feb49459-53bf-4845-8479-9013f5298f5e,F,White,other,43.0
+8ef6723c-1c26-42aa-98eb-fc91e9e09b40,M,White,other,29.0
+be786a5a-d233-40fc-b4db-c1b1c27ccd51,M,White,other,39.0
+84f9bca4-ef02-408d-add2-2026a0d1e26b,M,White,other,55.0
+78af4f05-c477-4be3-8b0f-9bb7965130b0,F,Black or Black British,other,43.0
+e43442b5-a128-468f-aaba-5c09b6c0a03e,M,White,other,63.0
+1564a40e-a028-4839-824a-cf465de5f731,M,White,alone,42.0
+28295ae6-c3bd-4036-a1da-3868d9037f10,M,White,alone,3.0
+4bc5f783-208a-4a48-8ecf-35de73625768,F,,other,26.0
+016f30be-7ae7-4efd-ba68-2941607dbff5,F,White,other,18.0
+bf92e23f-51a4-47aa-bda5-9fd2eef4e953,M,,other,3.0
+7ae5b5c5-f6ca-457c-a78f-050c3601dbd9,F,White,alone,48.0
+aa713df9-d5e2-4a5f-a56a-450ac99b4985,M,Asian or Asian British,alone,6.0
+a5ae8358-945d-47b5-b029-d6c92fcbf017,F,White,other,27.0
+82e65cf5-7c3f-4772-aaa5-07ce392d3806,M,White,other,41.0
+06e808b3-e4ab-48f3-9539-eef379444da4,,Asian or Asian British,alone,44.0
+882b0fef-5192-4746-857a-d175f8cebaaa,F,White,other,50.0
+a23a65db-ae06-476d-b2ff-a3e79d168473,F,White,other,47.0
+584a4add-71a0-4002-a4c9-844565d16d89,M,White,other,38.0
+93fd3418-abed-487c-8fec-ccbd7f496d97,M,White,other,2.0
+164d76a8-941a-4e88-afdb-311ff79e884f,M,White,other,2.0
+2bfa49e3-0359-436a-af83-e1b7a62be324,F,White,other,42.0
+213e1d25-fc49-4152-9b4a-fd2e4946a7c6,F,White,other,1.0
+b23968ef-4b2d-4b0e-a3b1-ef3abc9dfa59,,White,other,39.0
+2e84204a-8806-4142-a703-8711342071bc,M,White,other,44.0
+a622457f-ac7a-467a-a9ed-ecaeaec2fd54,F,White,other,55.0
+50ffd192-4a9f-4b67-b3bd-efee6a240500,M,White,other,18.0
+d4b0afe9-d682-4998-b9bf-fc4c4354a944,F,White,alone,24.0
+9c609997-317b-4b1c-adf2-d8baef429074,M,White,other,17.0
+9f5f516d-f057-4830-8f27-2a6d79858f56,F,White,other,1.0
+aeda80d9-d890-42e4-a313-38d96354baa8,M,White,other,18.0
+07115065-0e96-45be-a11b-7ec4dfbf7aa8,M,White,other,69.0
+82f673d9-bea3-4eeb-b790-6329c93a0157,F,White,other,17.0
+1ac1f21e-cf91-48fa-91fc-9ce1242d2fc8,F,White,other,22.0
+70104459-aefc-453d-90e7-5dfa4f9807d8,F,White,other,20.0
+f400f54e-cdfd-41b1-aa4f-efd239d45c3c,F,Asian or Asian British,other,48.0
+36c1732f-3bfb-49c2-918c-0cc780394820,M,White,other,30.0
+e7efddb2-13e6-416e-88f7-ca9fe42f0dde,M,White,other,14.0
+c29b3ada-cd93-4185-a3c9-ec1cfe6460f0,M,White,other,38.0
+af6d74fc-92d9-4e39-8e3c-939e18f7f81c,F,,elderly,68.0
+1b5fa384-d634-4e2d-8d31-f1c3216a5b59,M,White,alone,60.0
+90dce894-3990-42b6-ba3a-3e1fc91dce7e,M,White,other,57.0
+6865f5df-8e09-422e-a5b8-208f21c4bd77,M,Mixed,alone,61.0
+6a7a82c7-ed32-43f1-bd03-32545af580b7,F,White,other,19.0
+ebddcd33-80d9-48b8-8215-02f24c6a7900,M,White,other,52.0
+5d4016c0-f3e2-454d-a19e-d6cd80077ede,F,White,other,53.0
+d28a2e79-93a7-4dfe-988a-50d0f649bd87,F,White,other,58.0
+cd22671d-b0d3-4c43-94b6-3fbb771b21d3,M,White,other,38.0
+2226e77f-4410-45e1-ad44-1c0622766859,F,White,other,67.0
+081548dd-6e63-4b79-8102-ad33709d6311,M,White,other,14.0
+9ac570e2-c7ea-4c1d-be41-4611562fac39,F,White,alone,2.0
+316e1416-a457-4c9f-94b8-5a86be317304,M,White,other,
+7ae54f34-3e3b-44aa-89cb-c8b185f78f65,M,White,other,53.0
+5d82ac3d-019f-41d4-aa89-f98f8ec4685c,M,White,other,44.0
+8ec5f47e-c0d6-4beb-a5ae-f4135e478368,F,White,other,21.0
+c9c02721-0edf-4fc7-a399-28914d23c927,F,White,other,49.0
+8a267cb7-2c03-4857-a911-60ba4ceece2c,F,White,other,47.0
+98d8e65f-7f24-42e9-a2f3-4c39bf5089e2,,Black or Black British,other,22.0
+b899dcef-9c31-402d-87eb-bd69ee88183e,F,White,other,40.0
+92e2db3d-d8ce-4d53-a2e1-3b2ebd048f5c,F,White,alone,69.0
+b2388d79-cd3e-478f-8b8d-c7a73d36302a,F,White,other,72.0
+16dbbd83-49ec-4235-bc50-6cdcb8b66dd8,M,White,other,45.0
+11d03010-4016-4103-9279-4efade34901f,F,White,other,23.0
+a824603a-c120-4188-b292-b9f3fecb3b54,F,White,other,51.0
+402df6f8-de25-4496-a8b6-9c7c64683538,M,Other ethnic groups,other,38.0
+13120733-9dcf-4841-8f8b-cc4fedfe7fd3,F,White,alone,3.0
+ba82ac77-d132-48b7-b6be-9f1b0e6ad203,F,White,other,50.0
+027efa09-6dd4-453b-b7e6-023afdb38958,F,White,other,
+92e86581-9d2c-425a-8acb-6f51c5b1fdc8,F,White,other,28.0
+af0b6d5e-40e2-4b4a-949e-12f0bbd8c529,F,White,other,28.0
+ee94bd5e-9fa7-4084-8a14-e3e7db8e29b3,M,White,other,31.0
+87e3d929-66d1-4171-bf60-4a0f5baced28,M,White,children,28.0
+90e93a37-7f33-4ecb-8e9e-ec3b28882ffa,M,White,other,72.0
+62b9df1f-b755-4ccd-808c-cb84f3c13525,M,Asian or Asian British,other,
+d84da2d2-fc3f-4344-86d3-6c48e27e024f,M,White,other,24.0
+1b03c340-90e8-4bf7-8060-b87dab7b034d,M,White,other,
+4762b810-cda6-4e9c-a6e5-55b31df92acf,F,White,other,68.0
+04a4a6f4-f2f9-42dd-aa35-d47bb48478ef,M,Asian or Asian British,alone,34.0
+3938dc77-c5f0-4bd5-9843-6ed27c5c7e85,M,White,other,65.0
+6d464917-2aa4-4ebe-ae26-0277e5f5841f,F,White,other,54.0
+1cc6adae-17e4-423b-8d82-69545b6a6ec7,F,White,other,66.0
+f66560dc-98ea-4ecb-8aa7-f2be5c624be2,M,White,other,65.0
+90c80143-608c-4071-9fe4-643094ad0eb1,M,White,other,41.0
+4f95c628-d208-4d9a-a8cc-3b42aedd6f27,M,White,other,12.0
+a48c0c1f-694b-45d5-b21b-001d07f13879,F,White,other,53.0
+77a1cac9-33c1-41a1-bbfd-f4a00901ad94,M,White,other,65.0
+74bee4b0-368c-4739-9f11-b2429c603139,F,White,alone,37.0
+ca947038-3885-43d2-9f74-90d67edd7557,M,White,other,45.0
+594477d9-23e2-4891-9bd3-e504040cb400,M,White,other,31.0
+9920707d-fd9d-48db-b86c-28758d5769c2,F,Mixed,other,27.0
+419cf5e5-57e0-48ba-8b15-e276070377ce,M,White,other,41.0
+a9c32af7-7932-48b2-906d-f9d82c185072,M,Asian or Asian British,other,23.0
+cf4324ee-35e1-4cec-b634-767869a4ef17,M,White,other,10.0
+dc3af1ab-5934-44ab-9cbd-bd7a830ebf5c,F,Asian or Asian British,other,10.0
+6cbea97a-bfa6-4c78-8ace-b8d096567434,M,White,other,5.0
+7f707ee8-37a5-455c-bd45-0c95f15727ec,F,White,other,69.0
+dc3db1d1-4d77-490b-bea9-c91021c20154,F,White,other,8.0
+79f817c5-a5db-4bab-8f53-5776c79f4f5a,F,White,other,32.0
+111c82fc-7051-4013-a1c7-f7770597f983,F,Mixed,other,66.0
+298b82df-4ff4-4771-8c4f-00c15a26c235,F,White,other,52.0
+ef19899c-7c89-4f9c-94dc-3690552b5d40,M,White,other,56.0
+3c02f1d3-0109-4749-b7d6-ff4339daf498,F,White,other,
+86d8628e-aa3d-4f94-86c3-aba3417fb148,F,White,other,47.0
+4eeeb39b-e8ff-43fb-8a48-3919f7735a18,F,White,other,23.0
+773172b3-69af-48dc-9a4e-de7b1268bc69,M,White,other,3.0
+322382ab-63b0-47f0-bd1d-dd24d16f4188,M,White,other,38.0
+73115998-d8c5-4a9f-82d4-294f22ef0525,M,White,other,60.0
+d0f4e892-a80b-463d-a9bd-0a8373d28dd2,F,White,other,64.0
+043abb93-5606-4300-bef0-7f930c688c55,M,White,other,70.0
+2bf5551b-f38d-4219-8835-f4d5cf9ab2a7,M,White,other,36.0
+e3a5ce33-8db5-44fb-8436-57714442a002,F,White,other,45.0
+28602275-da1e-4f56-89bc-ee5b62792490,M,White,other,59.0
+96ae967e-a309-44cf-8bc2-b6aaa89303d3,M,Black or Black British,alone,64.0
+60e399d3-6fbc-44e5-a208-2cb34631e8e8,F,White,other,36.0
+2dae3ac0-d751-4c31-952b-3c44f217b5a4,F,White,other,32.0
+63500ec4-9267-4730-ad88-ce8ccda09856,F,White,other,6.0
+a233eae4-2d59-4bb9-b02c-e2b20612e29e,M,White,other,18.0
+d0db5a6d-13f7-4ac3-b80c-661885086fd1,F,White,other,53.0
+7ec95e22-a34e-49a8-baaa-8c76f1911fdc,M,White,other,69.0
+2a029e40-01e9-40c8-9e95-f89b26805c05,M,White,other,74.0
+2c10d76f-b6a0-4c70-a304-792090db2a19,M,White,other,36.0
+a38a1b94-c38c-4b90-adc4-035c227add5f,M,White,other,26.0
+daa4ad4b-fbf2-4d62-bcb0-81c1cf173ccb,F,White,other,41.0
+0ba24f16-44d9-4e03-ac66-efafaa1910e3,F,White,other,25.0
+6762ca57-494f-4a39-9e19-5af8b336b995,M,White,other,34.0
+4c4a91ed-65a8-46f4-8793-be037192a6f0,F,White,other,63.0
+aed2318e-0398-4db8-b55a-fb513422cf11,F,White,other,41.0
+446def5b-8f39-4bdd-9ca5-51329bb05ffd,F,White,other,65.0
+7993f307-6a4b-4299-a830-491bd07cc9c5,F,Other ethnic groups,alone,13.0
+4502d451-421d-4ac7-b124-6dedb7e23b71,F,White,other,32.0
+6b4c4529-2921-4865-a867-6f3cf4f2ed00,M,White,other,59.0
+2b0b4479-7209-4d68-8eb6-16f2093089cb,M,White,other,28.0
+f99a18bc-e600-4f63-9d33-11646034632a,M,White,other,69.0
+c66ca7ab-ad52-4f1a-90a5-bf1f0ca52633,F,White,other,26.0
+e8991fc7-d0fb-4002-ba26-89258ac46622,F,White,other,
+a378cdf5-a7be-4662-bf90-f2794a38ce81,F,White,other,64.0
+64c60f54-c535-4844-8874-05d887e6fb9c,M,White,other,66.0
+3db33cd3-ece9-4950-ba63-cac5a502f5b5,M,White,other,66.0
+4399752c-025d-434f-94fb-34e33a24d38a,M,White,other,23.0
+720a2cc2-a173-4f0c-9f5d-a5ef8d72bc1c,F,White,other,57.0
+c23983f5-c2c4-40fb-9cb9-1e17d66f1747,M,White,other,64.0
+4c1554a4-279f-4494-a20f-ab3d26042d9c,M,White,other,44.0
+353cd294-3445-446d-b7f2-e9d7c97d620b,F,White,other,21.0
+4fd64586-e62c-4fe9-a44e-b69753f99bf5,M,Mixed,other,19.0
+66c2a79d-8097-4264-a41e-a45736d7ded1,M,Other ethnic groups,other,9.0
+327f0991-5089-47ce-bfc6-7c11c09addf1,M,White,other,17.0
+4f71c3d7-c1ab-4a22-8bc5-a719def311b5,F,White,other,11.0
+9024c683-b04d-41bd-bb12-6bebc3b1e9a6,M,White,alone,32.0
+a8ee77d3-d836-4dc2-8d7a-9baf687767a8,M,White,other,14.0
+a2113259-cec9-47b6-8654-d4dff66c714f,M,Black or Black British,,15.0
+a371337b-8f84-43e8-8c8e-1e7cf9564d08,M,White,other,63.0
+2eca0715-994b-4efd-8d12-0f5ff73b4843,M,Asian or Asian British,other,6.0
+a2da6545-d5cf-4e8f-a29f-01e4577dcdae,M,White,other,4.0
+c0500690-2989-4ccf-8d13-17012e2f860c,M,White,other,40.0
+53c369d1-3a46-46f6-9066-be6387061eca,M,White,other,61.0
+70cb1186-180c-4a79-b8cf-5e12766d8aba,M,White,other,44.0
+fb1cb557-8fad-4289-b5c2-aeb372f8c076,F,White,other,44.0
+5f7806e5-1eca-46de-95cf-8a69dc5d10f5,M,White,other,17.0
+306ebb66-6aeb-4ae3-bcbd-a90de06409bb,F,White,other,3.0
+d5cb4cc1-2183-47a2-9705-81af0f03764d,M,White,other,30.0
+97978455-8210-43e8-adfc-95d9f7f036bf,F,White,other,26.0
+dcc25b40-fe0a-459c-a501-d8917c76ef0c,F,White,other,65.0
+31bb50ea-7692-4899-aff7-1bdb194f44a7,M,White,other,51.0
+127b23dd-426c-4602-90c9-3a54c8335c32,M,Other ethnic groups,other,5.0
+4941404f-170b-4a9e-817c-ab80684dd549,M,White,other,72.0
+67aa5a99-c950-4c36-a8c4-3d8aef6d4483,F,Asian or Asian British,other,68.0
+47ac4a8f-5ed6-4e08-a875-ac6f7625ed36,F,White,alone,9.0
+4041b89e-fe11-493b-a066-60a7a0f8e2a7,F,White,alone,66.0
+9629c2a0-8685-4cce-81b6-af6a6caf89d1,M,White,other,35.0
+fb0bcf4a-ca43-4c89-affb-6a8737708b23,M,White,other,4.0
+94330a49-d89e-49f5-96e7-c171ac66a06f,F,White,other,29.0
+0b9a922a-cc31-45fa-9863-4e1c80e7c5ba,F,White,other,5.0
+a88c1aad-6ca5-4c18-8746-0f22db7481b1,M,White,other,17.0
+64e5a10d-c7d6-4476-a50c-5ab2a9a0bf15,F,White,children,62.0
+a7b40fb9-3013-42d7-a889-c9add282f82d,F,Asian or Asian British,other,64.0
+bed64bc6-5037-4c16-bd04-2aa098ac100b,M,White,other,50.0
+85b6743f-3e21-4f0c-9467-447f3ab0fba7,F,White,other,3.0
+8d9e0411-3ae0-43fb-afe4-a33a4c93773a,F,White,other,50.0
+746fb8ee-e953-4a88-8859-db2305712a0f,,White,other,69.0
+84f820e8-0fdc-4c69-9bda-9ab37ef7506f,M,White,other,67.0
+28bd3283-aef3-40c4-ba47-79e31c5a248a,M,,other,11.0
+00382b60-2db5-46ac-a251-6c58323c70a2,,White,other,6.0
+9d51c52f-7d47-4cd5-a4e0-3762cb7c3e7a,F,Other ethnic groups,alone,26.0
+365e2388-e95b-49c5-a794-a65b2ec2ff46,M,White,other,38.0
+3bdc7668-0063-4b04-ad65-e167bee37068,F,White,other,20.0
+b5167591-13ed-4374-8379-1b80d1e1bc07,M,White,other,36.0
+d03488a3-6bab-4968-9334-cffd48dea2b7,M,White,other,62.0
+4069d9bb-d095-4881-9c5d-dca5a3ecd1ca,M,White,other,66.0
+25929402-e623-4e06-b822-3c2971d8fb32,F,White,other,65.0
+8ec4dbdb-7720-42b4-86a3-95ba5aad8c0c,F,Other ethnic groups,,72.0
+1405c273-6b73-4af3-9420-485c37a1b3e1,F,White,other,54.0
+cbedeead-22a9-4fe2-a390-8eed717dd8de,M,White,other,53.0
+f260f078-5b31-42a2-bfe3-b945470f586e,F,White,other,39.0
+5de82838-2410-4a31-8ff4-dde2ef4bf899,F,White,other,52.0
+ab41c476-9512-4fa0-a5d8-dc6e0663a6a4,F,White,other,14.0
+64d1024a-c38d-4f6c-8782-260be6600998,M,White,other,16.0
+0061b473-37f7-4ae1-a5b6-02e585885285,F,White,other,35.0
+b7903c23-9235-464e-ae3e-551fc483837c,M,Other ethnic groups,other,14.0
+3672a776-0c15-487f-a29a-9b6ff224f66a,F,White,other,73.0
+284a2db8-47b6-40d6-b383-ca662dbaccb7,F,White,other,2.0
+48451305-a244-4638-9114-20129a4c7b31,M,White,other,65.0
+4560598d-a522-44b4-b796-7692e9e855ea,M,Black or Black British,children,19.0
+7738b021-da67-4fac-94bf-37a8e2a9b670,F,White,alone,2.0
+f97b6aec-f615-4b16-8579-4c5da6b9e6f0,F,White,other,2.0
+edf44dd9-ad9f-40e1-a859-6087895ef5b2,M,White,other,18.0
+e7735d54-fdee-4bf9-a216-a0daa7e17130,M,White,alone,1.0
+8ec6951c-56c3-492a-beb0-eec77753316b,F,,other,25.0
+bf6e78b2-129e-4eb5-920a-270344081e53,M,White,other,28.0
+998650f6-6344-4ca5-8bf9-bf2b60df10fb,F,Mixed,other,24.0
+2c763ddb-928b-47b6-aea3-3a754f15a74d,M,White,other,14.0
+3137a0bb-7475-4a51-9dfa-000c15ce5e66,M,White,other,41.0
+aa4f59a7-b156-49f9-b110-24c305c09e9e,F,White,other,29.0
+1d3fb9b3-b267-4040-86db-62edd3d05c70,M,Black or Black British,other,1.0
+52d761ae-faec-47b7-8d42-91ab725bcd37,M,White,other,72.0
+9a972081-b7e5-4ebe-8d3a-62c1d0a2cb05,F,White,other,40.0
+dcab8948-b071-4ee7-8d5e-126fe359c5ea,M,White,other,66.0
+0adb8e74-ede8-403b-ac6d-131cc9c983fe,F,White,alone,25.0
+2b68e005-c78d-48b3-91c6-9d3cb17f50ae,M,White,other,8.0
+f412441f-5c8a-4173-bb10-0cbda0500903,F,Mixed,other,34.0
+c6c5023d-e2e1-4e0f-86e3-fbaaac930916,F,White,other,1.0
+a3440d53-0853-4822-a851-61866fc3747b,M,White,other,37.0
+d37e69a2-01b7-46f7-8684-f7772f02be26,F,White,other,1.0
+0c6d5c7e-2572-4cc3-b88e-47bddef363c8,M,Asian or Asian British,other,72.0
+e1bafc8d-3816-44fa-9029-f870184585d5,M,White,other,2.0
+e57b5679-af87-464c-b997-aa86d234f101,F,White,alone,69.0
+fe2d9ddb-cd8e-4b45-8564-b265f103ebf6,F,White,other,36.0
+4badab75-f200-42bd-9ec4-10847bdbbcb2,F,White,other,22.0
+41f4e0a1-8378-4674-811b-24034b141f6a,F,White,other,26.0
+987ac0ad-46bc-463f-adcb-dbec833ace4c,F,White,other,25.0
+c59e8d3d-ff68-4bba-9c1f-408c51776bed,M,White,other,19.0
+af669685-12f4-4199-bf0e-6044cf490a62,F,White,other,67.0
+068c2ebf-8dc5-4f3b-ae1f-58521aa82c89,F,White,other,28.0
+c2c36791-38bc-40c1-8737-9af0e736975b,M,White,other,18.0
+138fef40-8a05-49cf-8cd0-f7810381e4ed,M,White,other,44.0
+6d2d088d-52ac-4a1d-a0cc-9b36cf81ea94,F,White,other,21.0
+00001acd-8d03-422f-9268-9fd0e815c047,M,Other ethnic groups,other,2.0
+f7295dd2-f450-46cb-94c4-b2afd077437a,M,White,alone,27.0
+33f8a85d-39f3-44fe-9e83-aea0cda9fea4,F,Other ethnic groups,other,66.0
+b74f145c-6ade-4a78-9a63-ea801e81506d,F,White,other,6.0
+87fd36e1-13a6-4c87-ba7b-2e20431417bb,F,White,other,39.0
+76681f19-9493-4784-950d-5913c6cf810c,M,White,alone,13.0
+904b46f1-fdc9-457f-91f9-00a78b296293,F,White,other,15.0
+6defc5de-e3ae-4eec-9e97-b74bb6c70704,F,White,other,14.0
+9444c129-5d7b-46b5-988f-fe4e44a3f2eb,M,White,other,24.0
+4469178a-2537-4c46-90aa-da0472258861,M,White,other,1.0
+7c51f61b-4ea5-4663-9d1e-2a04e3aee0fe,F,Other ethnic groups,other,5.0
+3fbdf0f9-1d82-464d-9e66-ba86fc3d9e4b,M,White,other,29.0
+505557c1-8cbb-4ab6-aa56-67adaa48fb17,M,White,other,23.0
+1862aab1-e1a9-4356-a895-22fb5c1ccf9a,M,White,other,39.0
+5dbfb426-807c-4526-99dd-11b82ccaaa54,F,White,other,12.0
+1c3dc6a9-73b0-4afc-9ef4-768f5a4d2767,M,White,other,9.0
+620f2ef6-7160-4e91-92d6-17b2043f88cf,M,Asian or Asian British,other,23.0
+9de199c6-19f8-4dcd-81f5-a439e3f626bc,M,White,other,46.0
+d4015bda-5262-49ca-904c-537c7111ceaa,M,White,other,32.0
+d12ed26b-a7fa-4dd7-b65a-8fdb93bba2e7,M,White,other,28.0
+da0a3a5e-6915-4392-9f21-5778ccd175b3,M,White,other,74.0
+d61b3971-8d70-4e3c-90c9-d6fc140f2f54,F,White,children,42.0
+45786423-74c6-4855-8ceb-d11bf744eada,F,White,alone,47.0
+a4dca23c-3e37-4101-aab5-6caf9caf57cb,F,White,other,32.0
+a96b4f08-edf2-42ea-ad94-44e1b62c4273,M,White,other,6.0
+8d08709e-1bb5-4964-a1fa-677e3ca62231,F,White,other,48.0
+e7a39a60-89d0-4d78-87a3-0a98ee43a21c,F,White,other,32.0
+48c6d02e-96db-4c6a-a423-076707d84182,F,White,other,74.0
+9ab78632-f32d-4b1f-89f9-fcb394fbbd05,F,White,other,31.0
+294f4777-abee-47c4-a700-cc59dc833387,M,Other ethnic groups,other,54.0
+0b079c32-5fe6-4752-bee3-16497d882fe5,M,White,other,67.0
+e9cd768e-53d8-42f9-a318-4c04e25bd056,M,White,other,36.0
+89083ec9-25c0-4603-8132-f9ecb4816bc7,F,White,other,32.0
+233e1731-678d-4cd8-9465-0d75c154db61,M,White,other,18.0
+6e48a0a5-ddc6-4fdf-b1de-bdb8c5aa854d,M,White,alone,3.0
+378ce1b9-d8ad-4d57-ac88-3abfb906937a,M,White,other,62.0
+78a8e870-b2b6-433e-b48e-6ecbded4ed31,M,White,other,64.0
+2a92956f-2b75-4e09-88ad-17a9f38a8f3c,M,White,other,64.0
+25a75fc6-a72f-4d86-9f29-0157c58e91bb,F,White,other,37.0
+ab1e94b7-377d-40f2-b414-505a1313c2e2,M,White,other,62.0
+e96459e6-046e-4e9b-a502-6745743fd626,M,White,other,71.0
+695acc43-031a-460e-9608-92bf835322c5,F,White,other,3.0
+da10dbbf-4bba-4f53-8ca3-6cd691b55d73,F,White,alone,37.0
+e18ebe6f-3227-49c6-9570-7b314fdaeb9b,M,White,other,58.0
+84efea20-959e-4bd2-8e7f-1287aa2ca7d3,M,White,other,
+3327d1b9-e042-401d-bf96-277644652fd9,F,Other ethnic groups,other,58.0
+3bcba11c-b08b-4e5a-bcf0-6b0b04a7b5b2,F,White,other,12.0
+af1a0c65-0c50-4eab-822f-0aeb1ce0eeed,F,White,other,60.0
+19996e9d-6fc0-4333-b27c-877137cf7411,F,White,alone,69.0
+00c83dd9-d3b4-47ae-88b0-a21611f29f46,M,White,other,17.0
+49d60a90-e411-4166-9add-1009465af80f,M,White,other,11.0
+5b92ada8-8dac-4351-8e70-19b852308b0d,F,White,other,57.0
+ff746a81-983d-4f8d-9770-9ce4e233a9bd,M,White,other,26.0
+506534ba-e387-4e03-b90a-d74cece9639a,M,Other ethnic groups,alone,38.0
+72b7a74c-30bb-4669-ba3d-ea7a10f06ce3,M,White,other,73.0
+18bdf48b-6ecb-4eb1-b11a-6c95901b0da3,F,White,other,63.0
+98aa4097-925a-4a0a-9253-3045a9f5e7e8,F,White,other,27.0
+285a87db-217f-4126-aaf5-d00f6e309ccf,M,White,other,69.0
+3eaf731e-760a-474d-94ff-fe6dcb392906,M,White,other,37.0
+1f760f52-1b04-4fb2-99f3-e9b8e2f90a98,F,Asian or Asian British,other,1.0
+83a61ea0-e5f5-4a2e-a7d6-4e1829be76e9,F,White,alone,53.0
+3e2f0959-f58a-41ad-9d3e-f258d764ff22,M,White,other,1.0
+76a99dab-f3d4-41d5-b52f-09fd7b070302,F,Other ethnic groups,other,59.0
+3ec8a614-e9aa-4c4b-a21d-cab5fc9919c6,F,White,other,56.0
+5b6f3eb4-dcd5-4ad0-9be3-d944ed210a58,F,White,other,57.0
+1fc90819-8164-4945-abdc-88902d6ad4e4,F,White,other,55.0
+7482d851-051a-4708-9687-b6c455c9a02c,M,White,other,73.0
+6397425b-938b-4597-b00a-b2eee410bdd2,M,Other ethnic groups,other,73.0
+fe33fda1-a200-4407-b548-ffc11570278c,M,White,alone,51.0
+8a91597f-452f-40d5-8a2f-43f687499d79,M,Asian or Asian British,other,38.0
+5ce81856-e898-41ac-86cd-3fca4adef6fd,F,White,other,57.0
+2f8fe7dd-ff79-4665-8e7f-8a13af3efc30,F,Other ethnic groups,other,67.0
+c1e30d4e-2243-48c6-b3be-33b96d75faa8,M,White,children,16.0
+90fe041e-57db-4af3-963f-f917e9ed0e42,F,White,other,14.0
+7263f409-0000-473d-a9e0-b05ad4064dcd,M,White,other,48.0
+f03a66ee-daee-49d2-ab27-8693ef265cc6,M,,other,34.0
+d77958b9-4936-41c9-aceb-316ba59b936c,F,White,other,16.0
+fa488a2b-44ec-4273-a69f-5f77de96fbee,M,White,other,17.0
+7b40e1cb-2561-4d35-97ac-d756b2197625,F,White,other,25.0
+1c288fe4-4a6f-4703-8b3b-00d13b678c25,M,White,other,42.0
+1c646171-c257-4262-b530-87785bfdde6f,M,White,other,41.0
+46f008f3-b281-4fc0-97d7-b8ea070fb052,,White,other,41.0
+91298c85-159e-4f9a-9885-f357bcb332d2,F,White,other,15.0
+6d91ca17-ea42-4c31-8bee-71229ceb0f28,M,White,alone,40.0
+d3b847e3-f1ce-4e0f-81f9-4491ed14fb32,F,White,alone,15.0
+0bc625f1-7671-47f8-940c-4af8db1ac0a4,M,White,other,51.0
+dfcfe35b-191d-4d4c-afdb-2bed7fd43a56,F,White,other,24.0
+c2c6e8e5-187a-4913-aca5-11fa104cc76f,F,White,other,60.0
+ca5550e7-c620-4a30-b98e-57b08f6ceeee,F,White,other,9.0
+9bd78cb8-2337-46e7-ba5d-ea5109b9f809,F,White,other,13.0
+884d3403-1147-4341-89d9-8a568ef74b6d,M,White,other,57.0
+b8bc67cd-40ec-4d21-9efc-334640ac2310,M,White,other,59.0
+b4f36dbe-2bff-4b00-b8ee-5d68cb0a47f8,M,White,other,23.0
+41b0f5b4-63b4-44b2-ae54-7fc72c308762,M,White,other,27.0
+8144af01-b42f-4a77-ba50-b7318db22a36,F,White,alone,56.0
+9448b742-9fd9-4185-93e2-715b89789838,F,White,other,53.0
+6e3c1124-f0ca-4261-9efb-cb42b4be3e88,M,White,other,53.0
+3219da00-a5d6-401e-bf04-8af9a93f5505,F,White,other,13.0
+b9b861ca-96a6-4f35-b6f1-da8092d1c813,M,White,other,37.0
+2a6abf61-bd5a-4d23-9f29-eb0df8aa734f,F,White,alone,60.0
+a583a537-211c-47ce-8d7c-85b225df7cd7,F,White,other,45.0
+1770a7ed-feb3-42c9-96be-e43c1717adeb,M,White,other,43.0
+edaed92f-7409-4cc2-9ad0-87e544a2d294,F,White,other,29.0
+e0991ea6-b026-421b-b45d-fd12ad49d557,M,White,other,62.0
+97583be6-807d-45a3-baa3-33b301ae0445,F,White,alone,52.0
+428882c2-2f6c-4380-9266-a532c13948ca,M,Black or Black British,other,32.0
+e43e4a22-d527-4442-b65f-395063de6a23,F,White,other,74.0
+30f127a6-138f-4e0d-9ef5-42e692513460,M,Black or Black British,alone,73.0
+21020945-7d9e-4a98-8136-90f7e86da605,F,White,other,30.0
+e38c92ac-c982-4e10-90a9-cbdcd10dcd74,M,White,other,1.0
+a06ea94b-33ce-4a03-9979-28ee577a2e96,M,White,other,68.0
+98eec575-5285-4b59-9b15-5f89690e538b,F,White,other,45.0
+6b478a29-8d49-47aa-9828-beadb7bf4940,F,White,other,42.0
+91f3cf82-b8fe-46a1-9719-bdd66039ac3b,F,White,other,61.0
+226cf0b8-aa61-419c-b301-5436e4f9b1f0,F,White,other,22.0
+95497a43-76c1-4fc2-b8f0-831ae2e29cdc,F,Other ethnic groups,alone,1.0
+32cec736-a7a5-4de8-968d-cc2463b2a2c1,F,White,other,34.0
+6bed4ced-b187-45d2-a544-6f071a1d8e4e,F,White,other,2.0
+7f6d638b-15a2-4efd-9848-65c10d8ed0b8,M,White,other,32.0
+c6a03b09-d237-40f9-92f1-2987cbb18e22,,White,other,4.0
+3e4732a1-6148-4483-891f-fe344adb4536,F,White,other,34.0
+00cf79a3-e8d2-4cc4-ab62-355fe94c7dfb,M,White,other,61.0
+7cfcfefc-6779-4bc5-8911-438280b3f7da,M,White,other,12.0
+d57bf47f-f458-4a9e-9cc9-8fc016220c04,M,White,other,31.0
+9d233972-ee3f-450c-a3ee-3f5763eba4fe,M,White,other,25.0
+fdcd139b-d8fc-464e-a0ab-a04c460d1661,M,White,alone,-40.0
+3e91151a-60e4-495e-bdeb-5f717d729351,M,White,alone,6.0
+8f225027-97cc-4697-aa98-513772971c6b,M,White,other,47.0
+612295d5-c887-45aa-b40b-fe7d0ba19a1a,F,White,alone,21.0
+885d9ab1-8eb9-43e8-a0cf-c6d54c5c44e4,M,White,other,34.0
+83db275a-4f82-4f8e-a2fb-9169a22ce6e8,M,White,other,35.0
+94cdff86-9c5f-42d6-a04f-a3a6bdfe66fb,F,White,other,7.0
+402a530d-1fce-483c-b87e-f3fb171cf677,F,White,elderly,55.0
+76d676d5-6eee-4dc0-b07e-5ba282fee2b3,F,Black or Black British,other,25.0
+fb8d5046-3884-46cd-bc51-3dd8dbe219f9,F,White,other,38.0
+69f36e9a-de49-4926-b1ba-bf7a4d9f8bcf,F,White,,37.0
+97931f78-da85-4251-9d66-78e91a699c71,F,White,other,68.0
+4bdad865-0839-49f0-a552-67843c4fdc99,M,White,other,7.0
+3233f328-cab0-4229-8a97-2d0b88de2e33,M,White,other,22.0
+da22cb0a-aae4-4dda-bffb-da9144865dc5,F,White,other,33.0
+2625637d-6919-4d40-87fe-fe01bf01e0b7,F,White,other,4.0
+f609e885-7bd4-4442-aa15-d137e41e5ab3,F,White,other,17.0
+9a6e9f72-d3f8-485f-9216-b49073f48343,F,Mixed,other,71.0
+3ef1da24-20d6-47bc-8969-24c59af6499b,M,White,other,6.0
+bb04888f-1384-465a-b179-f60f26ca8aab,F,White,other,70.0
+bbe0173a-5510-4b24-bce6-c9027b29028f,M,Mixed,other,35.0
+f66ef1c4-49c1-46aa-b6ec-9fdee4aad0bb,F,White,alone,12.0
+c7ef44bf-d9d7-49ec-9223-64a25ca56659,F,White,other,38.0
+e11339d4-8db9-4b23-a73f-6114cc125765,M,White,other,11.0
+21a04dc1-0e23-4d38-9dd5-e52b4a982e64,F,White,alone,53.0
+67387f77-f49a-40bf-b2c6-11253a588df6,F,White,other,74.0
+ea421dcd-dfcc-48e1-808b-cad7f9ad7942,F,White,other,27.0
+7520504e-0dbd-4a2f-9cbc-431d06c8683e,M,White,other,40.0
+7ca3ecdd-ff41-41e8-9b74-12cae9624b57,F,White,other,45.0
+6d956f12-3b12-4fb2-b544-aae6c7168fba,M,White,other,34.0
+55cc4173-9294-4449-a5b9-1d8f7d7ede1f,F,White,other,16.0
+dba56876-5465-42db-9d00-a8889704f23e,F,White,alone,14.0
+1eafe852-216a-4081-94d4-28f795f396ac,F,White,other,54.0
+2955e850-b16d-407f-88f8-30d6e88413e9,M,White,other,8.0
+e39c213d-5f7a-4c7d-affb-331d050fe13c,M,White,other,43.0
+3b3b4b74-59c5-48bf-bdfe-569bbf8a04f0,M,White,other,12.0
+1e47c5cd-44f0-4d62-b2bc-2ab12d49f28b,M,White,other,
+169d8d25-411f-4f5b-8780-b723e5f7ab92,F,White,other,18.0
+a865206f-2e98-46a6-b3c6-d4c281dc55e6,M,Asian or Asian British,other,2.0
+f4767e68-229f-41a6-a37d-d863462c75bd,F,White,other,73.0
+93769aa3-3b6f-4770-a849-3c5b43c1ef51,M,White,other,69.0
+6f381d5a-e8ae-406e-951a-2c12aef8f40c,,White,other,4.0
+1cfb4aa4-8dd8-410a-bae6-bf2d2cad1967,M,White,alone,-41.0
+3dac1d9b-540e-4bb8-bfb7-e1dfe54ae396,F,White,other,31.0
+e59499e4-fe7e-406d-9f78-78c31db586d8,M,White,alone,50.0
+726075bc-4af8-49d4-88e4-271de1ba95c3,M,White,other,2.0
+4467d233-c14c-4aeb-bb56-c03cdeb5ab4c,M,White,other,70.0
+638948c7-a4aa-4d15-9367-dbd0f2e8cc04,F,White,other,1.0
+57548ab1-d7f7-405f-8937-c4caab7a4eab,M,White,other,56.0
+a27d0721-aa5a-4d37-ae2b-9235613b1047,F,Asian or Asian British,other,29.0
+f7ace558-ca2b-4a60-b0bb-1a95312b6fe2,M,Other ethnic groups,alone,60.0
+52f4cdb5-c515-4bba-a763-099a2ea4b674,M,White,other,12.0
+061de2e4-596c-42d3-87e4-e02de68c5cc7,M,Other ethnic groups,other,17.0
+4fca4088-8661-4ad6-a43f-3b03a75509b4,F,White,other,4.0
+69e1ff75-f3fd-4381-a8a0-548806197adf,F,White,other,36.0
+a28b3003-f42f-42ae-afb4-f0a6de7c9f0e,M,White,other,50.0
+2a6c1adb-1595-435d-9084-ab63de40a17d,M,White,other,16.0
+3e09af73-4e63-433e-ada5-0f61a91fecb5,F,White,other,19.0
+e6342035-c3ce-4b4a-a430-080e0153c2be,F,White,other,31.0
+f7c3b1de-1449-433b-9c2f-7a044b142024,M,White,other,19.0
+3d156c15-300e-42cd-8c3c-5e223c1d8381,M,White,other,72.0
+0942b484-4a0d-46fe-baa3-6df6cd1f1ae3,F,White,alone,6.0
+e74042af-5bc2-48c9-9518-f1aa53d357be,F,White,other,43.0
+cb7cba05-a0c0-42e7-abf4-143dd6915c27,F,White,other,21.0
+0177c8dd-4121-4e0c-8e48-d2564bac9e5a,F,White,other,7.0
+636ca040-852b-4710-ae44-15e772b45341,M,White,other,44.0
+6922af53-4b5e-44e1-b07f-665e331a0974,M,,other,41.0
+8fd55a9e-5bdd-44f3-a50e-e5a3d586f9c1,M,White,other,17.0
+1d38bd96-1993-4232-92cd-519e156d2ad6,M,White,alone,12.0
+80a4af80-8172-407f-bc60-ba19d485f0f9,M,White,alone,66.0
+93baf24c-0406-4cb7-80c2-45a36a793e72,F,White,other,49.0
+60098991-4c7f-4b5e-90c7-79953c9d359e,M,White,other,67.0
+caec5c4f-2150-457e-bce8-32654bcd9d72,F,White,other,16.0
+aa1c85f8-10dd-4b93-a0dd-c1a66968ce8d,F,White,other,62.0
+38976379-93cd-47fb-a732-3167f0481b55,F,White,other,44.0
+cad2cf42-3ad7-47bf-94bb-aa5551091e5c,F,White,other,24.0
+b3773a1f-e507-44b4-b5c4-c1ca9759b66b,F,White,other,65.0
+4fce7a31-daec-480c-82ca-c7186c5614a6,F,White,other,15.0
+57d8ab1a-4591-437a-bb1f-b3d9d193b07d,M,White,other,24.0
+89334124-9a0b-4203-9dae-7accd5db9207,F,White,other,16.0
+e0370695-a464-466e-a2f2-4801844193f8,M,White,other,70.0
+eec245bf-7803-4b94-9c25-11fc62dcd984,M,White,other,17.0
+822fed2b-72f0-46b7-9d7b-0146f3705e4a,M,White,other,46.0
+512c739c-260d-4bf0-a490-34cfbeb262d0,M,Other ethnic groups,other,42.0
+f57b2125-d709-4f14-bbf0-c585c3025e14,M,White,other,46.0
+6a831243-f5e5-4393-9217-907bb0df8a7c,F,White,other,8.0
+58a62d02-1bf6-4b97-b552-6144903f82de,F,White,alone,30.0
+7d807326-85ab-4816-b008-4e063da04fe5,M,White,other,54.0
+a4d1f19f-15a5-4c61-8623-deba18a9ba85,F,White,other,14.0
+dbd7bf4f-c973-4d77-bf6c-4b8d3f14c7b0,M,Asian or Asian British,alone,17.0
+718495fd-f675-489f-b4aa-a34c153cc7cd,F,White,other,42.0
+6567e21b-a326-40eb-a55e-505860ae7826,F,White,other,17.0
+42ad7020-210d-4298-80c3-6db72800e252,F,Black or Black British,other,24.0
+fffdac8b-5690-4f22-9237-3cb9e1f85df9,F,White,other,24.0
+5124a274-6cc2-4427-9119-b3236a2d07a3,M,White,other,4.0
+52d2b564-dfd3-42d9-b6b6-e7e677c5be70,F,Other ethnic groups,,25.0
+bad4bbd9-13d2-4b5f-92e7-9072765ccb43,M,White,other,62.0
+b17d559a-24ce-41a6-9804-345a8c2cb4e7,F,Other ethnic groups,alone,17.0
+b508d386-d3ab-4eb9-88ce-d3c501477e6a,F,White,other,38.0
+f7b32fb3-2c00-4266-99a1-13d455dc3f5b,F,White,other,24.0
+43a3bf4e-e248-4c3d-b251-12e627c5141e,M,White,other,12.0
+9deb8164-cfe2-4f82-8f11-3a30fa68da03,F,Black or Black British,other,3.0
+24017c87-e382-4daa-90f4-33801618eec9,F,White,other,8.0
+e16d221f-9f9e-47ee-ab11-51db8a8316ed,M,White,other,46.0
+bf5e2153-fdf4-414d-8ab9-8c192257e3e1,F,White,other,40.0
+3ccd58e2-91dc-409f-91ec-5f9d65d53d62,M,White,other,59.0
+7c60bc5d-db6a-455c-bc26-be6903d7e5b2,F,White,other,47.0
+e2d3dd08-bce4-4ac2-b846-0dc6f0640e46,M,White,other,51.0
+0dd59dbd-ee0f-4e2b-aed4-a60ffb4a3c4f,F,White,other,7.0
+86ec9eb2-b6a9-46af-9483-9ded068e5140,F,White,other,38.0
+4ef38604-a42d-4a01-9ac5-321590f54b49,F,White,other,37.0
+a0533c4e-3d19-4429-9e2d-ca036cf448fa,F,White,other,61.0
+6553be3d-7b74-44b0-8379-8cdf0f3cbef6,F,White,alone,6.0
+78c83b17-df94-4818-8594-2ec47c368d8c,M,White,other,39.0
+d067f643-0bce-4e08-af88-73d84a70fbbc,M,White,other,13.0
+2b56b0e6-3408-428d-a7fb-a84f7c9a3d9d,M,White,other,34.0
+502fa884-b1d3-4fba-8541-1c749bcd3ff3,F,White,other,32.0
+92816a53-c707-454e-8a8f-52da3713714c,M,White,other,30.0
+e1b1ca84-b011-4a5c-a6ad-d3756c437791,F,White,other,45.0
+6e9c1d75-7bd1-475c-8d10-42f79e6ee7e2,F,White,other,42.0
+91ace8ac-3ff0-4eb0-8d7d-8971e7b637f6,F,White,alone,33.0
+ddb9806f-b180-4de9-b037-2e55c72375e6,F,White,other,32.0
+3bec7741-476a-4d78-b390-87320075af8e,M,White,other,35.0
+2eabf14b-9ff7-4556-a2f6-940c009472fd,F,Black or Black British,other,39.0
+9a5e22d0-aae2-43b8-a741-73de10c88b9e,F,Other ethnic groups,other,72.0
+2f4344a2-bcdf-489e-85e5-12e0604f5215,M,White,elderly,18.0
+09d6fff4-d579-4b86-ae11-ff6bbdca290e,F,Other ethnic groups,other,29.0
+c02778a6-c9ad-4013-aabb-f6c553928a72,M,White,other,68.0
+93e0c87d-7b60-40cf-a203-dbca03896bc7,M,White,other,70.0
+05253ab8-508d-43f9-9437-d1902a4975fb,M,White,other,40.0
+59d19638-f65a-4ab6-86d6-95720f79d3d4,M,White,other,5.0
+75c0411f-f8d6-41c2-a7a9-0b6539618f9d,F,White,other,34.0
+7310371d-144c-4186-8f9f-febd94bfbdd1,F,White,other,6.0
+f744472e-ce07-4915-9ff9-f88cc6f81c9a,M,White,other,74.0
+2fd409a7-22d5-407b-9d0d-b7770730a76c,F,White,alone,28.0
+5d926d8c-1c48-4152-8a1a-c587fe80f739,F,White,,24.0
+4b0559ed-5b08-4341-ad74-399c9251b053,F,White,other,20.0
+fcde740f-59e3-4a38-aace-43f17f5ca441,F,White,other,51.0
+e2b580e4-c541-4337-ac7d-87c668ee6969,F,White,other,49.0
+49062d3d-9b2d-4d4c-8d50-cba5245d01db,F,Other ethnic groups,alone,34.0
+eddbc59d-20ba-4001-92e8-3cd7b7e96395,F,White,other,56.0
+ea7769d5-584d-497d-9a61-8da348939330,M,White,other,43.0
+13cbd3ec-4187-4760-b0fa-0f05af8fa91b,F,White,other,21.0
+284e9d9a-d773-4a77-b427-42f2959d211a,M,White,other,28.0
+1abaa955-44cc-4afc-b276-405f41b986db,F,White,other,33.0
+4ee3abc5-59d6-42d4-ad03-5d15452cb8cb,F,White,other,4.0
+9d815558-1ccb-4292-a01c-8e45ce1a1a5b,M,White,alone,44.0
+441d0a38-9e4c-4fed-a72e-c688268802be,F,White,other,43.0
+eb83c937-6d47-42fc-8f18-50e1fa0a2d83,M,White,other,68.0
+b02e4305-1368-4415-a0f5-65f2da5b7c35,M,White,,5.0
+c052626c-9313-4dbc-ab18-becbd13445da,F,White,other,37.0
+8db50317-fe95-4585-a2d9-b1ac8f1c88e7,F,White,other,45.0
+4804a2ce-82f2-4f86-a77c-42c676560c98,M,Mixed,other,2.0
+1182e3cd-a317-45ba-a358-e2402cc0481b,F,Mixed,other,44.0
+0f92bd69-55a4-4e61-a79f-195530189003,M,White,other,43.0
+a73ed0f2-e6cb-425c-9c49-3e2602a8369e,M,White,other,41.0
+0d111551-5f9e-4c39-a04f-bd7116ff0d91,F,White,other,38.0
+47eb9bb2-28e1-4358-8b81-54227c6a6b29,M,White,other,19.0
+4ca80dcd-c882-45b7-abae-5426d48387f4,F,Black or Black British,other,73.0
+b1b984a3-0bd0-47fd-90e1-b4321b9437ba,F,White,alone,67.0
+acddf088-9973-4d9f-a968-dfd6a0d536a1,F,White,alone,20.0
+0e8ac69a-6dea-477e-8645-99eda33b871b,F,White,other,26.0
+0325fccb-ea87-43b3-99d2-9891dbf7e38c,M,White,other,8.0
+0b7a3236-234e-4d9e-bb08-f3bcb14a1446,M,Asian or Asian British,alone,33.0
+f236278e-ec86-4365-b9e8-402918248832,F,White,other,3.0
+24e7b765-87b3-4bbe-8fd6-0e6ed2396f9d,F,White,other,16.0
+5803aa23-a01d-432f-bb80-31c60ab13c1a,F,White,other,46.0
+d9eef049-94ba-498a-8a1a-ca79334abee3,F,White,other,45.0
+1db8f709-5248-4c5e-b764-a186d291053d,F,White,other,74.0
+d1955827-b13d-4121-82cc-4c16e46081cb,,Asian or Asian British,other,73.0
+49a79762-3c0e-4611-9201-55b0490c4636,F,White,other,24.0
+ffc6c0c1-1c39-4ef6-9d24-5b9d216006f7,F,White,other,13.0
+ef5e7068-569c-4213-8c95-1c11bc564376,M,White,,51.0
+113a11b6-df2c-4625-928c-79e3cbfc57e5,F,White,other,14.0
+74c27dea-c2e4-4dd0-8b7e-2ce695a3ac07,F,White,other,38.0
+82eeac79-acda-4ba2-81c2-37144b2d9f3e,M,White,other,46.0
+54b7abd5-1e2d-4a20-b02f-a686420c7fa0,F,Other ethnic groups,other,67.0
+b2914dae-099c-449a-9a54-71f13b283f2b,M,White,other,19.0
+89796fa9-580a-45d2-9454-90a1d2ff3e3c,F,White,other,13.0
+952413f8-e57d-42b9-88f9-d12bf09df8cb,M,White,alone,57.0
+2d5c1bb4-702e-4119-8135-26b460954fc0,F,White,alone,70.0
+8263fd6a-9c09-4427-bdc9-0f1680072778,F,Asian or Asian British,other,53.0
+5c3d8ea0-5872-461b-9470-5d0d7cd09b61,M,White,other,74.0
+de41f738-18bd-45fd-8373-0234183230d6,M,White,other,34.0
+9abbf7fc-78c1-4908-9be6-014a6250edb1,M,White,alone,38.0
+e1252dc3-fc4f-4beb-b366-e3a3c61b02d1,M,Black or Black British,other,57.0
+ea5adc3f-7998-4b67-af4a-8b07d9a23d6f,M,Asian or Asian British,alone,51.0
+4b1ac454-db65-43fc-8bc1-bd734975754a,F,White,other,50.0
+e55b7668-d41f-4b7a-b18a-348cd9094929,M,White,other,62.0
+fedf0b47-4d63-4ec5-9c21-5c80df6ff708,F,White,other,31.0
+f9371e47-fa14-4283-a2b7-bc84cd55d1a3,M,,other,57.0
+c29bfafd-2ed0-420d-99fa-e2c697ebf9cf,M,White,other,51.0
+7a82ea98-5eea-4108-9698-84b07ff8d9ae,M,White,alone,30.0
+bebe2a58-cfb7-40f5-b51c-12364bc78161,F,White,alone,71.0
+1bec8121-e47a-49e0-94a6-fd783994f551,M,White,,4.0
+2791020b-aafa-42ba-baa4-df874c92a33d,F,White,other,29.0
+af7e3247-ef01-4625-8905-a26d94df8d3d,M,Asian or Asian British,other,41.0
+611b1cfd-1967-4121-b41a-221dc633d538,F,Other ethnic groups,other,2.0
+a64e658c-485f-4a28-8531-03b71a279836,F,White,other,60.0
+d24f8b39-8f61-4b19-8259-95f5419f2fd9,F,White,other,54.0
+1832f925-278c-4916-95fe-18be822663db,F,White,other,1.0
+0be18708-c01d-4c7b-b548-c231ad75d0ad,M,White,other,39.0
+6eaef6dd-9bcc-4c85-ad39-1fb83e1e96e1,M,White,other,42.0
+d616be78-6a9f-4ec8-9a67-f89e356b8d8a,M,White,other,22.0
+da78fff3-a835-4be7-8480-da05e0610f3f,M,White,other,36.0
+684d697f-500b-4c76-bf08-3b82bd1816ea,M,Black or Black British,alone,74.0
+fae9e67b-fe83-40b3-8a20-6879e5fcac86,M,Other ethnic groups,other,30.0
+884f8341-db5e-452a-98aa-4433a79b7b58,F,White,other,33.0
+9e1b6e67-58b6-47a2-aaf7-4ac1a32c2685,F,White,other,2.0
+7c4d89b7-e424-4802-aede-efddf822ffe6,M,Black or Black British,other,74.0
+e607ca1d-3dfe-4a0d-bc3b-efc054b220e3,F,White,other,74.0
+d3c396d9-4797-4e6f-a5d8-4d1bc751ad0e,M,White,other,15.0
+bbc9ab92-8727-4349-a4e7-5592c56904e9,M,White,other,39.0
+7b1e91f1-53df-4b0b-a03c-e5982b2b84f2,F,White,other,7.0
+80f486b8-8567-420f-9e2f-bf5e567ec0f4,M,White,other,36.0
+43c41e06-d712-4f94-b7c0-fafd88ce7c53,F,White,other,47.0
+bf80d235-6aec-4c07-af43-233da203d6a2,F,White,other,39.0
+aa012733-b806-491b-9133-d8a537faab03,F,White,other,44.0
+60d53adf-01b1-49ad-8193-1eef0e4c75c5,M,White,other,30.0
+ab985820-c30d-40bd-b2cf-1473505e3867,F,White,other,54.0
+c01a3bb4-3b67-4fb1-b407-eb79cfe41a99,M,White,other,46.0
+29d69e73-58c5-4bb0-8848-0b870a6a2172,M,Other ethnic groups,other,10.0
+f39e11a7-7306-4183-9a43-6744afc9e35a,F,White,alone,63.0
+1fb2e2f6-dbf9-4b8a-8ac5-07e62b435b22,F,White,alone,43.0
+923093ab-08a3-4e6a-8d7f-7e9e08568765,M,White,other,9.0
+88a7bc3c-b760-44ea-b9dc-f4d813c54eef,M,White,other,23.0
+d0456540-86ec-4eb6-a1ba-1953cf1e3bf8,M,White,other,42.0
+ea8d4df4-9499-4437-ae43-1afe2f9d6b33,M,Asian or Asian British,elderly,3.0
+02de8471-0c3a-4ad8-a265-38e91885bc03,F,White,other,70.0
+24b12f82-31a6-4faa-8a81-1ba1ca1470b3,M,White,other,46.0
+bec93749-4d89-40f4-b714-1fe718e6ab97,M,Other ethnic groups,other,23.0
+f5886efd-06bb-4de2-a0db-a758fa3c5455,F,White,other,15.0
+8f0b0b93-0b16-44c3-b689-5be8518a559b,F,White,other,3.0
+17af0e9b-e2e5-4055-9762-0008f54615a9,F,White,other,23.0
+bbe74c19-036b-4a2f-b763-97eae954d667,F,White,other,35.0
+75f53da7-0da5-4b68-9dd6-e1ec8742df75,M,White,other,58.0
+7c1794a4-4b0c-454c-ade5-77cb6a793899,M,White,other,70.0
+54138f2f-5f34-49d4-9ed3-ca3f66db86b5,M,White,other,19.0
+f2a50c24-1af4-4a09-acd2-5c184269ff43,M,White,other,39.0
+a7e5ecf6-557d-447d-b7f9-929caddde621,M,White,other,11.0
+55c7cc2e-213d-4fc7-9ac8-01c59cc5108a,M,White,other,-53.0
+dea32c3a-23d0-4b59-aca2-d8a4ce97f3fa,M,White,other,61.0
+8cc0de1e-2eaa-48c4-9b4b-76fca69a7a0f,F,White,other,46.0
+5a23f154-c098-48b9-bb25-f986bc8ca844,F,White,other,22.0
+ea5af241-476a-4a63-8872-2893bd79019c,M,White,other,68.0
+80bac498-3f3f-4f65-86ad-796dbbc2d6d9,F,Mixed,other,8.0
+d320df3f-347d-4258-9f0f-eca6c7b34191,F,White,other,21.0
+1a720de2-a56b-4ab1-94b8-d96c9c6f4cff,F,Black or Black British,other,57.0
+de97f41a-d5e5-40c1-aac9-e531c9182666,M,Black or Black British,other,20.0
+4a7fa0ac-3811-406e-9494-de840d92d77b,F,White,other,30.0
+9d928b11-f29b-4e0f-9c4c-302ed762ecfe,M,Other ethnic groups,other,
+d1e65e45-5bce-4a80-a16f-dfff79bfffbe,F,White,alone,74.0
+3ad8c2b2-6755-4e37-b12f-a0f5b53316d9,F,White,other,16.0
+706d9596-698a-4e6b-9ed2-ad3cc119bf96,F,White,other,62.0
+82abd4c0-1155-4818-9ff5-167c5606f554,M,White,other,20.0
+732abf98-7021-4039-bf9a-9f192039e3fc,M,White,other,38.0
+34786b6b-2620-4801-9591-eed2fab239cc,M,Asian or Asian British,other,53.0
+6b96d361-f6a0-4e80-b746-09849f3c3749,F,White,other,29.0
+bf549ed2-c4b8-473c-8f4a-113810212ed1,F,White,alone,20.0
+2a22da50-e674-4dc5-94d1-f00a2e5a0529,M,Black or Black British,other,21.0
+5842fdef-7808-4a63-85dd-b8e7fc87db8a,F,White,other,12.0
+d36aa9e4-3dc5-45a0-a63b-519f4b1164c6,F,White,other,27.0
+8e7f30e8-2411-4175-b2f5-0f7ecc598e7d,F,White,other,10.0
+009daf82-6c0c-4ee3-8a80-776ef903fb1c,M,White,other,37.0
+bd8ca130-356c-4b9b-af23-bce6bbdb9b7b,F,White,other,51.0
+88edebab-522e-47e1-afbd-68eb8cfaedf2,F,White,alone,70.0
+eb632940-2664-4247-9dd3-e8c87c97be21,M,White,other,45.0
+9d9831a1-36b7-4eb4-8063-beed75919fc5,F,White,,1.0
+47fe104a-eb4a-42e4-9fd4-0de2c661bcc7,M,White,other,52.0
+c949c370-cc3e-41e2-a8fd-43fcbf32427c,F,White,other,53.0
+250a44e5-0b5f-4392-8bd2-2c7d95ebe319,F,White,other,61.0
+c5442ccb-e5bd-4e0e-b2b4-72ff3e0d26f4,F,White,other,13.0
+1f8bf0a8-be17-4d2d-8313-143ff042cc91,M,White,other,29.0
+d0b43284-b833-48d5-860f-7be184eb2f24,F,White,other,
+f201bd1d-d35e-466b-a66f-c1bef3bbbe13,M,White,other,1.0
+780774fb-a217-4a48-8b89-a45341f045a7,M,White,other,41.0
+dc1d6d17-e2da-43ce-a5c6-a0c83204bc2f,M,White,other,24.0
+59bb72d0-8f9f-4211-a044-14d3a74e0a7b,M,White,other,52.0
+edc2498a-2650-4465-84cd-60a5150ca255,F,White,other,34.0
+0fa28fbc-d803-4197-a191-87ffc3b7e30c,M,White,other,48.0
+b227d15b-e130-4699-b3dd-f86abd613408,F,White,other,30.0
+0952e669-093c-4feb-87e9-f272ef033262,F,Asian or Asian British,other,44.0
+443acb3a-ca88-4c97-9f6e-dc787f5f77ca,F,White,other,55.0
+e01238c6-b22a-4d74-bf9e-0e20be03a41b,M,White,other,46.0
+ef731e0f-afc1-41f9-92c5-c9a232e9d238,M,White,other,31.0
+c2cd7645-5feb-4c1d-93a4-9a0de7ec87c0,M,White,alone,70.0
+5681fd7b-716f-486f-9999-a4f4a1529895,F,White,other,34.0
+d4d28544-d4ad-4f6c-afd4-5018625729e0,M,White,other,4.0
+8cd4a399-cf93-4949-b455-2a82cca36a7b,F,White,other,34.0
+334bb9ea-2875-402b-a33d-2c4ab0d505d2,F,Mixed,alone,33.0
+331659cf-f6d4-44c1-8fa4-68a9c46474da,F,Asian or Asian British,other,59.0
+09b7e555-a1ef-44bd-9d60-1d28d2b45281,F,White,other,56.0
+c1167555-15f5-41b8-bc5b-302f541b01d6,M,White,other,57.0
+12ba28e5-2c77-4107-820a-f6e91f17e163,F,White,other,71.0
+28dec8db-6a8d-4d0c-99d0-701812ab922b,F,White,other,33.0
+56599b45-2bae-4852-8435-6a22545567b5,,White,other,10.0
+031cc99a-29cf-4f40-891d-602961cf77c6,M,White,other,25.0
+966c9dd2-3817-45bf-9526-2379296b2e5d,M,White,other,48.0
+486b8378-7a95-40af-bb4c-d0b745f80ff5,F,White,other,32.0
+b4b8fe6e-56a0-4393-94ee-d11ca08e1712,M,White,alone,33.0
+4560bbaa-6b7c-4038-9342-4059687f1bf9,F,White,other,5.0
+a252cac3-bdf9-48ca-97ea-050caf6c2e71,F,White,other,46.0
+1531665b-d444-462b-8e18-3575e49bc9fc,F,Other ethnic groups,other,52.0
+00fabca4-819c-4814-a3ac-e971b0c99a79,F,White,other,47.0
+466334c7-de72-45e5-9d10-f7f9abe350a8,M,Other ethnic groups,other,7.0
+e1f68951-0d17-4041-8b03-0165ea96d278,M,White,,66.0
+6060f38f-87ac-42fe-af1e-be9706ac70e0,M,Mixed,other,61.0
+f06ff817-c17a-40f8-82d3-146028d8baad,M,White,other,73.0
+1f5acd19-c151-413c-b98b-01ac09053f79,M,White,children,
+45306194-3d56-4216-afba-10e228336b6a,M,White,other,2.0
+a5cad34f-cac3-428e-95a7-40ad09018b60,F,White,other,72.0
+6a63185f-fd64-4149-828e-e74136afedbb,F,White,other,25.0
+f4d25b54-8452-4593-81ef-253334f70dce,M,White,other,25.0
+0b96c9f6-02d3-422c-89e1-c98d0369138c,M,White,other,51.0
+955f00d8-8e73-4b74-9eee-df0b3bf5fd87,F,White,alone,26.0
+e137667e-9db1-4d63-8d4d-e78ebdc397ca,F,White,other,1.0
+bab9a664-23d3-4431-8c36-0537504f6b4c,F,White,alone,64.0
+b90a3325-9a41-48dd-ba47-3d0191142e78,F,White,other,64.0
+1f612b82-795a-42ce-8573-42de60013d23,F,White,other,74.0
+b8fb69f3-4f61-46ed-af1c-bf120dd51a29,M,White,other,42.0
+ba5624a7-9f71-4fef-a9fa-e98525e5ca7e,M,White,other,
+0ae4912d-a022-4a28-9f3f-7dd889cd8063,M,Black or Black British,other,72.0
+43bcd999-f2dc-4afc-b375-5deefb74f508,M,White,other,42.0
+9f9a3c2b-a3d5-4ca1-8b73-b63ef198a1d8,M,White,other,23.0
+6aba15e0-68f0-4cd3-a2a9-92bac34a43fb,F,Other ethnic groups,other,49.0
+79711d95-9c82-4a0b-8789-4de8f6589538,M,Other ethnic groups,other,57.0
+7b346e07-46f2-4771-9b63-2b560c45e1ea,F,White,other,57.0
+62c898aa-3bc6-4748-a2ef-6cef506fb337,M,White,other,72.0
+e19f20bc-cc00-4d79-8c4d-62b3b4537c54,F,White,other,8.0
+87236b81-f18e-4dec-a442-ce6adcfb35e6,M,White,other,1.0
+6b8f6fe8-7d4e-4426-b0c0-c4356e24bde8,F,White,other,24.0
+169cee06-dfd0-4f59-82c0-8d06dadd5226,F,White,other,19.0
+5f99cea3-46d7-4b12-987c-9df7c08cdb18,M,White,other,46.0
+56370ed8-3a82-4914-9987-c918395ee861,F,White,,10.0
+fbe29031-0def-419e-9ede-4bc29a3a040f,M,White,other,37.0
+0bd035b5-2086-4712-86b5-835e4fb7786e,F,White,other,6.0
+7701bb27-d89d-439d-9097-5149d2a789a2,F,White,other,66.0
+32ba579b-c899-43cc-a25f-211e22d95af4,F,White,other,16.0
+ce51baaf-9215-44b9-beaf-78d705daaba4,F,Black or Black British,other,55.0
+f22a439b-979b-4999-bc5e-4f7224886a77,M,White,other,14.0
+0e575b5a-6e53-446a-8830-1d90b57be2cb,M,White,other,6.0
+05d8199f-4d40-4db8-a8db-ffe7ff801dbb,F,White,alone,32.0
+ac6597a8-7d87-425c-95cf-d3bd74032c49,F,White,alone,63.0
+910c7035-c9a3-45ea-b7f1-2fcac69e8bc2,M,White,other,46.0
+e60efe50-181f-480f-9690-699ddb7d6d57,F,Other ethnic groups,other,74.0
+2ac9d6aa-8023-4735-be6c-6907c3b2ce30,F,White,other,
+4e47ce71-8a81-43c5-8001-b4facabc224e,F,White,other,54.0
+a67b063d-1ce0-4bdf-aa6b-6be863d235c1,M,Asian or Asian British,other,12.0
+6cd24055-7f54-4c8b-8b75-65b1a581dd52,M,White,other,4.0
+0a02c1a3-d3df-4f1c-88a6-c6ba5314907c,M,White,other,50.0
+3fa74380-a4ea-45f2-abf4-83deab07d1d4,F,White,other,44.0
+9b0a69db-96a3-4efc-941a-88ff494f89d7,F,White,other,18.0
+d367bd02-d320-4719-99bc-7457386f3369,F,White,other,51.0
+e4e3c394-fc09-410c-afac-783fe039bfb7,F,White,other,57.0
+1ba11c42-2688-41c9-8e88-fe346f49b5df,M,White,other,64.0
+e07f1ee0-1a08-4871-8d3c-d44da02a08d1,F,White,other,60.0
+e871a884-e477-493e-8807-12dbf556998a,F,White,other,58.0
+45d7e0fb-05b9-48ee-a346-eaff1cadeeb2,M,White,alone,26.0
+23f94ea9-5d60-4908-9e50-224ed664d24f,M,White,other,5.0
+9ebfba12-0cc8-4699-b491-bfa2b7739ffe,M,White,other,2.0
+b01dec05-a4ed-4a02-a331-60f09ba8f527,M,White,other,70.0
+357a2c4a-40ee-4253-887d-08079d38d5cb,F,Black or Black British,other,57.0
+f53808b6-ef47-49a3-9751-34aa00035882,M,White,alone,4.0
+38bb0e8a-f780-429a-aa4b-112248c1be38,M,White,other,34.0
+e629e640-a940-4d55-9c48-5ee86a9bf4a8,M,White,other,52.0
+c5dd9eb9-e8cd-4428-9166-4e96d406ad1c,F,White,other,2.0
+52aea876-2bcb-48fd-b3f8-594d9f336126,M,White,other,11.0
+1db1576c-5340-456d-acf4-6703dd50485d,F,White,other,49.0
+491fb3b4-dfa5-49ab-bd68-7169daca9046,F,Asian or Asian British,other,69.0
+35c0a60d-fe88-494f-b0ee-908bc4301c27,F,White,other,66.0
+2cb06dc0-ff78-4d02-96c3-50a99dde911e,M,White,other,34.0
+e2ce8245-fad0-4e32-acb1-1338cc623c51,M,White,other,47.0
+bcaee990-bb27-475e-9391-1c23fea8c54d,F,White,alone,1.0
+97d88ff8-7d72-45ed-9ea2-500e9506fe02,M,White,other,33.0
+8ffe0f72-cb7a-4af7-b3ee-be7d67a1cd01,F,White,other,39.0
+5f550352-cbda-4abb-8859-c66b18cb6370,,White,other,51.0
+e0986036-19a2-4a0e-b3b8-c2d31b34d21e,F,White,other,40.0
+170d023f-e546-4177-9ca5-285fe05e4944,F,White,other,60.0
+24cd406a-6575-4484-9107-a69c099e449b,M,White,other,7.0
+2ac20551-564d-4ed8-8d48-9e6e694fede9,F,White,other,30.0
+eacd260a-0e4a-45c2-a021-31bf6c2e4219,M,White,other,10.0
+428c932f-d4c7-459b-9b79-3a28e0dc6df4,F,White,other,2.0
+cba23ce1-654f-4892-a98b-ace8a4bb4125,M,White,other,44.0
+6be662b6-cd50-497e-8009-6a44776bf57f,F,White,alone,12.0
+fa8016a6-0cf2-4763-bdc5-29a4b2a4fd70,M,White,other,9.0
+5ad55ad2-37f5-47fa-a37c-04d64b81fd7b,M,,other,61.0
+396ebcdb-2cd5-4d90-b3bd-8efb33d611f6,F,White,other,55.0
+86446bce-06c0-4740-bf0d-351878ffd3c3,M,White,alone,54.0
+f0f96067-8418-4645-8c3e-d40c2d5b8757,M,Asian or Asian British,other,19.0
+43cd3607-82cf-418b-ad52-91e6cbacb51e,F,White,other,50.0
+1c3556e4-72b8-45ef-99e9-0b25da9ca765,M,White,other,56.0
+37a618a3-65f3-41e0-9ee3-131359970ccc,M,White,other,11.0
+e00885c5-b3e8-470b-85d2-aaf8aeb9fb90,F,White,other,71.0
+27d0509d-7929-4fc4-8267-e3361a13afa2,M,,alone,48.0
+de2eb15a-ed9d-4cb7-8447-7b6c724ac875,F,White,other,61.0
+2e315cb3-cffc-4f9f-86ef-35a39981bcfc,M,White,alone,65.0
+1944b87c-aaa8-43c0-84ce-34363c7de597,M,White,other,2.0
+03a3657e-8eda-44bc-90c7-d073504df9dd,F,Other ethnic groups,other,4.0
+a7371977-66b1-458d-828d-84411df53d61,M,White,alone,35.0
+5a68c987-6d35-4295-892e-f9a0da8ab02c,M,White,alone,44.0
+664cd1a4-aaea-4a7b-aae7-598074dbaeb1,F,White,other,33.0
+e0ef3eeb-2412-460c-8a6c-2a0aefbd1c3c,F,White,other,56.0
+a12d0fa7-dd59-4af3-84da-5a3e30280611,F,White,alone,49.0
+69e74b07-e524-4393-9717-2f581a940010,M,White,alone,29.0
+5ecc6483-f80b-4932-ae70-abca0bf91cd0,M,Asian or Asian British,alone,63.0
+5e01478c-6ab7-4723-9392-1d236d893523,M,White,alone,28.0
+0457afff-4d24-4cef-87b1-52c74471c64a,M,White,other,44.0
+0ab31cfd-7d76-487b-a724-853a6b07c343,M,White,other,61.0
+2b32a7d1-737f-4bb1-b4d6-ae564d30fdb2,F,Asian or Asian British,alone,11.0
+18157301-fca6-48d0-84c4-50634c5e3f4f,F,White,children,23.0
+54fec650-5e3c-4079-893a-333127e9a499,F,White,other,26.0
+c7ffae9f-095d-4261-8dbe-86cff48ea2d5,F,,other,5.0
+844e2c6b-2976-45d6-b7b4-97f5d55d8848,F,White,other,27.0
+88016a8a-c156-4f66-9411-8f7bf05f85bb,M,White,other,1.0
+d6d7656b-6707-4dc0-ba6f-c1fae030d2c3,M,White,other,67.0
+e8f38018-fb8f-469d-944b-2f498912b1f4,M,White,other,16.0
+acbbbb7e-708e-49d2-a326-e510192c6b42,F,White,other,59.0
+10169b0e-cd44-4e29-a048-1651abaf5154,F,White,other,69.0
+14eb0c0c-f6a8-446b-83de-7e1bbdc6c7b2,F,,other,27.0
+233e95b5-00ff-47a6-8527-e246680249e9,F,Asian or Asian British,other,67.0
+97f580c7-8caf-4a5e-9314-807215c50afd,M,White,other,70.0
+be9a4227-b590-4934-bd05-1664d8a7f098,M,White,other,16.0
+ad2ee870-86ba-469f-95ce-1f99f4ba1591,F,White,other,70.0
+f376e68c-9a76-443c-a388-37c6238aae54,F,Asian or Asian British,other,35.0
+f05bc67c-12e7-4a72-8644-d2f371b352a4,F,White,other,41.0
+470156dc-51aa-4c89-93a1-a935410ae460,F,White,other,45.0
+cf25382d-a340-4dc0-bd7c-10f53a61486b,F,White,other,55.0
+c7443836-336c-402a-8ce5-0cdec0ed2dbc,M,White,,3.0
+4483911f-9a7b-4c03-b9d3-cc323195edd4,M,Asian or Asian British,other,55.0
+262516b7-7e44-4e1f-b299-cb4011c767ed,F,White,other,29.0
+f0cba043-d121-46e6-944b-ec6cc1e901a3,F,White,other,70.0
+38b836d4-b297-44da-962c-818d3c5b1677,F,White,other,68.0
+00e1ecc0-e450-41ef-bcd8-971ebd3a844e,F,White,other,8.0
+54a3f2e2-6e6f-4877-9872-28cd563bcef2,F,Other ethnic groups,other,24.0
+6c8b1858-ee8e-4c1f-9c5a-017d3ee64f72,M,White,other,10.0
+b20e1858-9bb0-4058-8a4e-5e8b643f075a,M,White,other,55.0
+6911daae-091c-4e4d-894f-e4ff4a598fc1,F,White,other,66.0
+a1803e38-7656-4769-816a-d5a466b072a5,M,White,other,5.0
+20ff6541-f6fe-4c07-90fe-2c2cf98d6f45,F,White,other,63.0
+ba5ef997-a025-4d70-82a7-e654e5afc28c,F,White,other,24.0
+89830420-4494-4ae6-986e-ba08d5a7f756,F,White,other,66.0
+17d2eb22-4276-4d07-8b56-78a5bfb2d6c8,M,White,other,69.0
+4188e559-6b0d-404a-91bd-5912d4097755,M,White,other,49.0
+49906a75-a882-4946-8e22-ff2df17eb66f,M,White,,52.0
+4e6dcf84-7c4d-42be-b226-cf6ecac4fc8a,M,,,33.0
+f336fc4c-8738-449e-891a-e576af6480a7,M,White,alone,27.0
+b38783be-6aa8-4206-b112-b2fb7330718d,F,White,other,62.0
+aa5041af-4072-4954-aebb-8f6e43d87e39,F,,other,4.0
+72b96f9e-fedb-4c0d-9b63-3d13d2295546,M,White,other,43.0
+2f380602-8c8f-4af1-a568-615193c43316,F,White,other,64.0
+47ba74a9-0b54-4198-a239-0f9a38b92d70,M,White,other,55.0
+a4274b13-2ea3-4747-9612-7b3b4e8a3292,M,Other ethnic groups,other,53.0
+e9afdf8a-272d-4007-a780-f0ef1380e1f6,M,White,other,7.0
+0d5ee4e4-8b1b-4293-b8e1-56a6896c5f49,F,White,alone,49.0
+855b43e9-63bb-49dd-8f88-eb765e74134e,M,White,other,11.0
+560b9bc2-1c8c-42dd-aabe-54bfe250352a,F,Black or Black British,other,71.0
+fb4243b8-c3b4-412e-964a-29d7234ffabe,M,White,alone,18.0
+a1b3399e-2fcd-4e8a-95b9-f5215b10c5da,M,White,other,30.0
+e93c8b10-59f0-4162-96f9-44b469ffb28f,F,White,alone,74.0
+2d9b8ca2-5b9f-4662-a898-fd55c7d60ad0,M,White,other,7.0
+73766b9a-b66b-48bc-ace4-1eebe3cc13d1,M,White,other,22.0
+897c3263-7eb7-4bff-9bf8-94fb1056da94,M,White,alone,52.0
+017d58cd-d422-41f8-a75e-60ce34c46bac,M,White,other,53.0
+fac89be4-befe-488c-9531-e7612a6d3755,M,Black or Black British,other,46.0
+d84ef593-07dc-460d-a8e0-6612949329bb,M,Mixed,other,38.0
+ea54397e-e2d3-43bb-9202-d472cdac401b,F,White,alone,15.0
+432ff883-0ef5-4470-931d-dedcc64d7f64,F,White,other,6.0
+e55a94de-2246-4f30-9e43-467be683e247,F,White,alone,24.0
+fbb057d8-a898-4a33-a419-fd86cba49ebe,F,Black or Black British,other,69.0
+5674fd9e-3730-4f8c-907d-fdf64fb05a46,F,White,other,54.0
+b84e6e01-27fc-4238-a515-424bca919fbe,M,White,other,30.0
+249fe46e-ffab-48f6-84b0-fc8254f41ede,M,White,other,9.0
+13082094-c879-4741-a57d-6e02f6ca1966,,White,other,21.0
+c8ced584-39f6-4c45-9679-cc4b4bad67aa,F,White,other,59.0
+44af4fd2-0eea-4f60-83fb-fd738e51ad86,M,White,other,21.0
+36b18b15-2550-4414-bc2b-0d1294b14bf0,F,Black or Black British,other,54.0
+6cc89991-56d8-47af-8c07-081b2983b1e4,F,White,other,40.0
+9dd03563-8c89-46b0-9932-d8748138364e,F,White,other,60.0
+bbd05d42-b7ad-4c0b-b32e-12d9a3469c7c,M,Other ethnic groups,other,47.0
+9a0331ce-b6bc-4203-8c29-2002ded9963c,F,White,other,21.0
+eb437940-e50b-4cac-9326-511c69b73ccd,M,White,other,25.0
+6a22779e-8c3e-4ad0-9085-7fcdc1c2b360,M,White,other,49.0
+7eb8af66-0790-4891-9fda-7af520ee278e,M,White,other,1.0
+b155bdf5-0a80-4d1e-9a7c-3efcc6a77563,M,White,alone,12.0
+fde9fd6c-4e50-4d73-a261-534fd0771cb9,M,White,alone,23.0
+5f84e3ad-67ae-4795-982a-e1603ef93951,F,White,other,27.0
+eecf0902-ef2d-4b87-9ef3-53f49f0cfa0a,F,White,other,39.0
+51ac1e64-de1d-4789-bef7-964fbb87e85e,F,Asian or Asian British,other,53.0
+a0099d66-3482-4c9e-b063-13b52302095e,F,White,alone,25.0
+43ab78ef-8882-481f-bf8d-218744bec347,M,Asian or Asian British,alone,50.0
+0ff4f5a8-36c5-44e3-b6db-e1982e40a28c,M,White,alone,16.0
+3e0912af-1d86-4182-9a9f-a05e4816f7cf,M,White,other,68.0
+97ae1860-83fb-466a-9bff-356596bb8861,F,White,other,7.0
+a36fc1b5-47c6-4751-8128-1bd29deafce4,F,Other ethnic groups,other,50.0
+ddc5d638-3b1b-4b23-9e3e-04ad91aad0d2,F,Other ethnic groups,other,47.0
+a5529a19-adfb-4e29-9519-30b940083493,F,White,other,11.0
+e349c61b-c826-4350-83df-4c7388268057,M,White,other,24.0
+befc2a0e-ef2b-4777-925d-247e682e0b58,F,White,alone,36.0
+026e9d93-bca3-447b-bef6-fe2ef2ee7622,F,White,other,34.0
+60e1cb65-7d4f-4ade-bede-ad90fb2669a5,M,White,other,3.0
+c368a785-a766-49ad-9ef8-7b8fa44be0d1,M,,other,24.0
+ac1b9897-0412-4ad3-ac4c-8db256db7baf,M,White,alone,45.0
+983a8628-0e82-45d3-8423-15b708dd23c6,F,White,other,61.0
+ad02a668-ea80-4a9b-8bfb-52f8094cf90a,F,White,other,22.0
+f9122028-59d9-4b83-a856-3601c68eeee3,M,White,other,34.0
+3779d555-705f-44ad-91e2-5e7e21aff87d,M,White,other,17.0
+cf19f6b5-1114-4366-a6d8-fb3c713b3b9f,M,White,other,69.0
+9c40908d-adc0-4ba8-a56e-06b55885399d,M,White,other,7.0
+2da0a74a-7fe7-4f09-ae64-ce525a90f6e6,M,White,other,46.0
+7370366b-7080-49ab-bdbd-edb0e7083e29,M,White,other,14.0
+9ffd6751-8640-45b4-8812-cd418bc937b6,F,Other ethnic groups,other,58.0
+36414064-91ab-4dc7-a450-5d1f745bb156,F,White,other,69.0
+f38d7a68-e376-4dfd-b506-0264da38cce6,F,White,other,68.0
+b5b71f94-7125-4174-8e92-810b03a40b83,M,White,other,8.0
+59453924-9327-47ba-baa3-1f1f771f8d84,M,White,other,42.0
+0879b20a-369a-44e3-b0e2-2e6ef9fdaa28,M,White,other,29.0
+37a86563-5fbd-42e6-b5d1-dcdf0ca5a9ae,M,White,other,39.0
+2c3bd921-e6de-4474-8b7b-e9a9db133da3,M,White,alone,56.0
+0539a0f1-714d-4f8e-a11b-bfe1b6ae0c41,M,White,alone,74.0
+e9eead2d-b2f0-421a-b53e-f3c4f994a87f,F,White,other,22.0
+e4928189-dd4d-4362-9897-2c4a575017ca,M,White,other,71.0
+1a58385a-9169-4deb-847c-e373c178eb68,M,Other ethnic groups,other,25.0
+656ead7e-0fee-41a1-a5e0-a1850c313604,F,White,other,52.0
+9aa3afd5-c922-4771-b6f3-03c34c9f1fb1,M,White,other,49.0
+cec312a2-806a-4f3d-805f-c77605559635,M,Other ethnic groups,alone,70.0
+73a4d0d1-8fec-49b3-9f48-d5d8bfe22600,M,White,other,42.0
+e14e80d0-ea1d-488f-ab25-2ea7e1dfb392,M,Other ethnic groups,other,43.0
+b81073e3-771d-479e-b34b-bbb2f3c2d013,F,White,other,61.0
+13191437-c90a-420e-b73a-4ab2ebba412e,F,White,other,15.0
+249332f7-c6de-4ec9-a872-7335a1b8f93d,F,White,other,54.0
+0753dc1e-6325-4771-b570-296161a7b88c,F,White,other,19.0
+2f5c102a-eb55-419e-ae8f-22c6ae16030a,M,White,other,21.0
+8a7f81e0-8fd2-4471-8973-f1078bea3926,F,White,other,67.0
+28dad593-38c3-424b-98b6-2e60ce6f605a,F,White,other,19.0
+ec4b2c42-5fb9-4007-956d-0581a4d6c0ef,F,White,other,61.0
+1a8fc3c6-a71a-4957-9194-322304debac3,F,White,other,20.0
+c7c54a0e-04ce-4a80-a146-c40ddcebd419,F,White,other,59.0
+d54b1366-c443-48de-9c5c-e5761df9e45a,M,White,other,58.0
+385dfe6c-00fd-4c8c-85fd-b462ab329a37,M,White,other,19.0
+98372672-2cd0-41ee-b46f-cacf6b4bdf69,M,White,other,56.0
+7f44579b-7880-4a2a-93cc-2137d941f181,M,Asian or Asian British,other,43.0
+48a0a32a-49c4-4b1d-8dad-5be42e57ab22,M,Asian or Asian British,alone,21.0
+5d858727-ed32-4b4a-a05c-4f52dc8f7b33,F,White,other,40.0
+537f8a45-d366-4958-81b8-76f006beaa4d,F,Other ethnic groups,other,58.0
+960024c5-c76b-4a09-8991-59cae69e7357,M,White,other,68.0
+c1eb91a6-9dfa-4201-b34b-ff6ef4bf9ac7,M,Mixed,other,45.0
+d42087d4-9fe0-4143-9da5-9ffba8f8ac29,M,White,alone,2.0
+3351db1c-3770-4d91-8513-db8f9fd0a88a,M,White,other,39.0
+6a7d0dca-d142-48ac-8f18-9b507945b817,F,White,other,1.0
+86071e67-fe55-4237-9466-8728ab71072d,M,White,other,37.0
+c022a86a-6101-4525-a396-36ce59898d85,F,White,other,51.0
+33b83933-14b5-4b56-abac-92cac2f93c9a,F,White,other,19.0
+68700510-aa2b-4cc0-951c-e97a38ed59e7,F,White,other,37.0
+f4d2968e-475b-4069-9f3e-0b860594e08c,M,White,other,14.0
+9d049fcd-6d19-436a-b267-6ebdcfd616c5,F,Other ethnic groups,other,37.0
+0e68fda5-12a5-4e84-bf3d-239c989a4867,F,White,other,64.0
+30ee55df-38db-458d-98ac-137eabd6a25f,M,White,other,56.0
+f09bacc5-49cd-4532-baba-631c38db9fd0,M,White,other,63.0
+42d0cb46-9b35-47eb-8d8f-c0ec80319605,F,White,other,16.0
+85d29140-5c8e-4388-ac74-647e76ab8b5c,F,,other,47.0
+d9dc83ad-4185-49d2-811c-d16d681fa3dd,M,White,other,53.0
+ad9c9e6d-2d45-41de-90f2-43cff069c0b9,M,Asian or Asian British,other,60.0
+2a999bbf-a9e5-4a07-963a-b5f2b0c5eaac,M,White,other,54.0
+10d49ce5-a7d7-4640-935a-40c4d658298d,M,White,other,43.0
+3aa60a31-70c4-44d5-84ee-e4db56866af0,M,White,other,23.0
+c5ee0327-04d6-4156-8705-d945a4db6317,M,White,alone,59.0
+d00a98d3-97c0-4ee3-9b72-41a2cf7c714a,F,White,other,1.0
+1ba48503-ede0-4f31-a7dc-33e3a8ad4096,M,White,,51.0
+3cf2790e-ee8f-47d7-bfff-2ace55231e41,M,White,other,44.0
+dc7c2633-992e-488d-8512-4d55e7f5265f,M,White,other,64.0
+e5514089-e25d-473c-97b6-851c17a5f438,M,Mixed,other,67.0
+aa10c0fb-63c7-49ab-b6ba-8a08ca464d8e,F,White,other,10.0
+252bab10-413e-495e-8114-f7f1674871f0,F,White,alone,23.0
+b90ad788-d38e-4267-9d74-ad37f0a8d5b7,M,White,other,3.0
+6d83d668-31f3-4493-9b57-853afd5e0062,F,White,other,58.0
+fab6df14-0909-413e-833f-df54f94a0a46,M,White,other,31.0
+e5c26cc6-952f-4a66-a690-3d90f54a25f7,M,White,other,63.0
+47749f87-a2c7-4d95-8ea7-67f3e7813f14,F,White,other,31.0
+47fd59a7-9ba6-40dc-9cce-ec229ed56725,M,White,other,38.0
+3c5c53ed-d0f6-4934-ac3b-904b59ffeee7,M,White,other,1.0
+a98f9913-db5d-41ad-99d4-be7f614dc65c,F,White,other,10.0
+34cf78b1-45d1-40f1-967e-9ee3925068e5,F,White,other,26.0
+72855f1f-a240-4866-8547-bf27675a604f,M,White,other,35.0
+668c9540-064b-4686-bad4-a1d449cae424,M,Black or Black British,other,50.0
+3d2457d2-ba4b-462b-8184-9cef592a8ad9,M,White,other,10.0
+7ecf9aa7-8df5-4815-847b-beab46cfea81,M,White,other,53.0
+712800eb-4b1e-40cd-8f01-556360e155ed,F,White,other,62.0
+8eb04af2-2ae1-4b07-a339-07881cd89397,F,White,other,36.0
+f9dae4e3-3ed3-4800-a8d9-5909e8fd421e,M,White,other,9.0
+00874c49-ad6a-4759-b6b6-f9062817ac66,M,White,other,6.0
+a7d8b6c9-8cc7-498e-ba39-ef86a724af5d,F,Black or Black British,other,68.0
+fbc43bd0-bb37-4872-9289-758be449c642,M,White,other,23.0
+8416d1e1-3335-4eba-9885-3069159aab8a,F,Asian or Asian British,other,55.0
+07e1332a-204b-4d73-ab18-7b88aa71b176,F,White,other,64.0
+ae789262-5745-418c-8d76-643e5d9c63df,M,White,other,5.0
+eaca413a-c58c-4546-9b10-7a9a78f4787a,M,White,other,74.0
+a4df39b0-5d89-42a2-8c1c-0b6fd4a419e5,M,Other ethnic groups,elderly,43.0
+3dc2d166-9656-4c3f-a9a8-a7535b938ac8,F,White,,12.0
+3b376a30-78c4-4dbd-ab81-9d437f1c2907,F,White,other,12.0
+aa762a60-3c83-421d-8a94-59bfb5e5fa88,M,White,other,45.0
+8828622d-4133-4b6a-a4ed-4b1e2339dbb1,F,White,other,41.0
+94ce4e40-4c78-498e-96dd-74c49fcc42cd,M,White,other,15.0
+980b3d3d-82e3-4b34-a421-5f0f5ebef839,M,Asian or Asian British,alone,9.0
+edb07d72-f0dd-42a5-82d2-45a6fce40476,M,White,other,19.0
+e35b0005-2fa5-4ec5-8eb5-3c3edcf06ece,M,White,other,74.0
+3142265a-7921-44cd-b71a-c4e3b80420fa,F,White,other,70.0
+9db20f2f-3564-46e7-bb4f-85a48902102d,M,White,other,45.0
+b0c07fb4-06b5-4ba4-a753-bd337a5025e1,M,White,other,54.0
+71ce0e00-d4e5-4641-9fbb-ca6f474f72e3,M,White,other,52.0
+63042126-998f-4573-a52a-0de59add2182,F,Black or Black British,other,1.0
+658c2998-ce44-40d2-ba52-806496758fd4,F,White,other,18.0
+d6f3ced8-9129-4aed-abc9-2d7e6da62996,M,White,other,51.0
+88c85fc9-0256-496a-98f3-60db3e42bf39,F,White,alone,56.0
+9a33b6a6-6f02-42eb-aa78-5b197ea7cbc2,F,White,other,74.0
+4b7e9cb3-5dfc-406d-9de8-7be780615552,M,White,other,37.0
+1c8c838a-4577-498c-8e4d-441ddb1b189e,M,White,other,53.0
+cd3dd2e5-361b-447b-86c0-ec716aa6af0d,F,White,other,25.0
+1cf1e69e-026f-414b-a051-3b672152bd6e,F,Asian or Asian British,other,58.0
+6c64f57d-5d80-424f-8c1e-052ebb3a394f,F,White,other,28.0
+99bbd77b-6e22-45e9-a618-7e2afdee6ad8,F,White,other,41.0
+8927cf12-7478-4d8d-92fa-ec3dc72edd14,F,Asian or Asian British,other,9.0
+e63f02d3-8843-48fe-84cd-26409d665882,F,White,other,35.0
+3bcc1aae-e683-48a4-92e8-5c6855aefc60,M,White,other,28.0
+6f154087-383f-4f32-90f7-38239c751412,M,White,other,59.0
+e348fc4b-3419-472c-998b-0f6648a658cf,F,White,other,21.0
+9829c271-0a79-41e4-985d-aa9517be8dd3,M,White,other,63.0
+76b8b9da-2057-4628-9c40-61c98db64c24,M,White,,13.0
+1d8e4a75-bb27-4180-846f-0439ecabc4b5,F,Other ethnic groups,other,19.0
+8c9a3865-69ae-4eb7-8d53-77af06832c68,M,White,other,55.0
+57b4d59d-76ca-4203-905c-04dc43875d70,F,White,other,18.0
+21b59beb-666e-43bb-8c98-49cffde91187,F,White,other,61.0
+2bc92fd3-8d4c-4b8f-a123-233f6d3f3e5b,M,White,other,15.0
+803571fb-0a97-411b-be66-357ec9edd3c5,F,Other ethnic groups,alone,24.0
+e8467cff-291e-48de-bc9d-a29a7782157a,F,White,alone,5.0
+c547aa23-8265-4a34-977b-f4db0ebb1874,F,White,other,8.0
+60e9baf0-1b16-4b58-b7c6-33e5faf661c9,M,White,other,29.0
+74bee4b0-368c-4739-9f11-b2429c603139,F,White,alone,37.0
+959974fa-9a11-4b34-951d-39bb4cb8685e,F,White,other,36.0
+f046431f-b764-457a-a176-5ebdbe438eef,M,White,other,22.0
+584a4add-71a0-4002-a4c9-844565d16d89,M,White,other,38.0
